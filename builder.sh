@@ -92,7 +92,7 @@ function build_node_project() {
 SUCCESS_PREPARE=true;
 try
 (
-    prepare_local;
+    prepare_local 2>> $LOG_DESTINATION;
 )
 catch || (
     echo "GIT IS FAILED";
