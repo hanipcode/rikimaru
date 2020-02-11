@@ -99,7 +99,7 @@ clean_log;
 SUCCESS_PREPARE=true;
 try
 (
-    prepare_local 2>> $LOG_DESTINATION;
+    prepare_local >> $LOG_DESTINATION;
 )
 catch || (
     echo "GIT IS FAILED";
