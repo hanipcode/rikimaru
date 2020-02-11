@@ -70,7 +70,7 @@ function prepare_local() {
     git status;
     git add '.';
     git commit -am "$COMMIT_MESSAGE";
-    # git push $PUSH_TO;
+    git push $PUSH_TO;
 }
 
 function build_node_project() {
