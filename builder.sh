@@ -25,7 +25,7 @@ EOF
 
 function usage() { echo "$USAGE_MESSAGE" 1>&2; exit 1; }
 
-while getopts ":e:h:l:" opt; do
+while getopts ":e:h:l:m:t:" opt; do
     case ${opt} in
         e)
             CUR_ENV=$OPTARG
