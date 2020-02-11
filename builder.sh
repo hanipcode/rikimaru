@@ -93,23 +93,21 @@ function clean_log() {
 
 clean_log;
 
-
-
 # Script start from here
 SUCCESS_PREPARE=true;
 try
 (
-    prepare_local 2>&1 | tee $LOG_DESTINATION;
+    prepare_local 2>&1 | tee -a $LOG_DESTINATION;
 )
 catch || (
     echo "GIT IS FAILED";
     SUCCESS_PREPARE=false;
 )
 
-# if [[ $SUCCESS_PREPARE == "true" ]]; then
-# ssh $HOST_NAME  2>&1 $LOG_DESTINATION << EOF
-#     $(typeset -f);
-#     cd /var/www/collection-backend;
-#     build_node_project server;
-# EOF
-# fi
+if [[ $SUCCESS_PREPARE == "true" ]]; then
+ssh $HOST_NAME  2>&1 $LOG_DESTINATION << EOF
+    $(typeset -f);
+    cd /var/www/collection-backend;
+    build_node_project server;
+EOF
+fi
