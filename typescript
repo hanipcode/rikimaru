@@ -1,1334 +1,0 @@
-Script started on Tue Feb 11 15:17:48 2020
-Agent pid 30659
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls[31mbuilder.sh[39;49m[0m  log         trycatch.sh typescript
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hcca t tt   tp t ypescript[1m [0m[0m [?1l>[?2004l
-]2;cat typescript]1;catScript started on Tue Feb 11 15:17:48 2020
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hcat typescript[?1l>[?2004l
-]2;cat typescript]1;catScript started on Tue Feb 11 15:17:48 2020
-Agent pid 30659
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls[31mbuilder.sh[39;49m[0m  log         trycatch.sh typescript
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hcca t tt   tp t ypescript[1m [0m[0m [?1l>[?2004l
-]2;cat typescript]1;catScript started on Tue Feb 11 15:17:48 2020
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h            [12Dscriptls    scriptcat log./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.shScript started, output file is typescript
-Agent pid 30659
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls[31mbuilder.sh[39;49m[0m  log         trycatch.sh typescript
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hcca t tt   tp t ypescript[1m [0m[0m [?1l>[?2004l
-]2;cat typescript]1;catScript started on Tue Feb 11 15:17:48 2020
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hcat typescript[14Dls            [12D./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.shScript started, output file is log
-Agent pid 31083
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.shScript started, output file is log
-Agent pid 31462
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.shOn branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	modified:   builder.sh
-	modified:   log
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	typescript
-
-no changes added to commit (use "git add" and/or "git commit -a")
-[master 93bb35e] hanif
- 3 files changed, 39 insertions(+), 1 deletion(-)
- create mode 100644 typescript
-To github.com:hanipcode/rikimaru.git
-   687c801..93bb35e  master -> master
-Pseudo-terminal will not be allocated because stdin is not a terminal.
-mesg: ttyname failed: Inappropriate ioctl for device
-^C[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.shWelcome to Ubuntu 18.04.3 LTS (GNU/Linux 4.15.0-66-generic x86_64)
-
- * Documentation:  https://help.ubuntu.com
- * Management:     https://landscape.canonical.com
- * Support:        https://ubuntu.com/advantage
-
-  System information as of Tue Feb 11 08:21:20 UTC 2020
-
-  System load:  0.33               Processes:           136
-  Usage of /:   50.4% of 48.29GB   Users logged in:     0
-  Memory usage: 57%                IP address for eth0: 157.230.251.115
-  Swap usage:   98%
-
-  Get cloud support with Ubuntu Advantage Cloud Guest:
-    http://www.ubuntu.com/business/services/cloud
-
- * Canonical Livepatch is available for installation.
-   - Reduce system reboots and improve kernel security. Activate at:
-     https://ubuntu.com/livepatch
-
-104 packages can be updated.
-0 updates are security updates.
-
-
-*** System restart required ***
-Last login: Tue Feb 11 08:06:07 2020 from 112.78.164.207
-]0;root@pertamina-staging: ~root@pertamina-staging:~# exit
-logout
-Connection to 157.230.251.115 closed.
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccat  c  ./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.shdump
-dumpJan132020
-installmq
-ss
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccat typescript[10D          [10Dssh-session.log[1m [0m[0m [?1l>[?2004l
-]2;cat ssh-session.log]1;catdump
-dumpJan132020
-installmq
-ss
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hcat ssh-session.log[19D./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.shdump
-dumpJan132020
-installmq
-ss
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.shdump
-dumpJan132020
-installmq
-ss
-duar
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.sh^C[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.shDockerfile
-db
-dist
-docker-compose.yaml
-dump
-import_data.sh
-index.js
-jest-mongodb-config.js
-jest.config.js
-mongo
-node_modules
-nodemon.json
-package-lock.json
-package.json
-public
-seeder
-src
-task.json
-tsconfig.json
-tslint.json
-yarn.lock
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.shHhahahahHA
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.shbash: -c: line 0: syntax error near unexpected token `('
-bash: -c: line 0: `bash -s             build_node_project () '
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.shsubsystem request failed on channel 0
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.shINVALID ENVIRONMENT
-
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.shnpm WARN recordcall@1.0.0 No description
-npm WARN recordcall@1.0.0 No repository field.
-npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules/fsevents):
-npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
-
-Error: Cannot find module '@shelf/jest-mongodb/jest-preset'
-    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:582:15)
-    at Function.Module._load (internal/modules/cjs/loader.js:508:25)
-    at Module.require (internal/modules/cjs/loader.js:637:17)
-    at require (internal/modules/cjs/helpers.js:22:18)
-    at Object.<anonymous> (/var/www/collection-backend/jest.config.js:2:21)
-    at Module._compile (internal/modules/cjs/loader.js:701:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
-    at Module.load (internal/modules/cjs/loader.js:600:32)
-    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
-    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
-npm ERR! code ELIFECYCLE
-npm ERR! errno 1
-npm ERR! recordcall@1.0.0 test: `jest`
-npm ERR! Exit status 1
-npm ERR! 
-npm ERR! Failed at the recordcall@1.0.0 test script.
-npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-
-npm ERR! A complete log of this run can be found in:
-npm ERR!     /root/.npm/_logs/2020-02-11T08_26_29_235Z-debug.log
-^C[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.sh^C[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.sh[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls[31mbuilder.sh[39;49m[0m      log             ssh-session.log trycatch.sh     typescript
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccat log[1m [0m[0m [?1l>[?2004l
-]2;cat log]1;catnpm WARN recordcall@1.0.0 No description
-npm WARN recordcall@1.0.0 No repository field.
-npm audited 885186 packages in 7.397s
-found 2 low severity vulnerabilities
-  run `npm audit fix` to fix them, or `npm audit` for details
-WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules/fsevents):
-npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
-
-
-> recordcall@1.0.0 test /var/www/collection-backend
-> jest
-
-Error: Cannot find module '@shelf/jest-mongodb/jest-preset'
-    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:582:15)
-    at Function.Module._load (internal/modules/cjs/loader.js:508:25)
-    at Module.require (internal/modules/cjs/loader.js:637:17)
-    at require (internal/modules/cjs/helpers.js:22:18)
-    at Object.<anonymous> (/var/www/collection-backend/jest.config.js:2:21)
-    at Module._compile (internal/modules/cjs/loader.js:701:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
-    at Module.load (internal/modules/cjs/loader.js:600:32)
-    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
-    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
-npm ERR! code ELIFECYCLE
-npm ERR! errno 1
-npm ERR! recordcall@1.0.0 test: `jest`
-npm ERR! Exit status 1
-npm ERR! 
-npm ERR! Failed at the recordcall@1.0.0 test script.
-npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-
-npm ERR! A complete log of this run can be found in:
-npm ERR!     /root/.npm/_logs/2020-02-11T08_28_09_279Z-debug.log
-
-> recordcall@1.0.0 build /var/www/collection-backend
-> tsc
-
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hcat log[?1l>[?2004l
-]2;cat log]1;catnpm WARN recordcall@1.0.0 No description
-npm WARN recordcall@1.0.0 No repository field.
-npm audited 885186 packages in 7.397s
-found 2 low severity vulnerabilities
-  run `npm audit fix` to fix them, or `npm audit` for details
-WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules/fsevents):
-npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
-
-
-> recordcall@1.0.0 test /var/www/collection-backend
-> jest
-
-Error: Cannot find module '@shelf/jest-mongodb/jest-preset'
-    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:582:15)
-    at Function.Module._load (internal/modules/cjs/loader.js:508:25)
-    at Module.require (internal/modules/cjs/loader.js:637:17)
-    at require (internal/modules/cjs/helpers.js:22:18)
-    at Object.<anonymous> (/var/www/collection-backend/jest.config.js:2:21)
-    at Module._compile (internal/modules/cjs/loader.js:701:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
-    at Module.load (internal/modules/cjs/loader.js:600:32)
-    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
-    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
-npm ERR! code ELIFECYCLE
-npm ERR! errno 1
-npm ERR! recordcall@1.0.0 test: `jest`
-npm ERR! Exit status 1cat log[?1l>[?2004l
-]2;cat log]1;catnpm WARN recordcall@1.0.0 No description
-npm WARN recordcall@1.0.0 No repository field.
-npm audited 885186 packages in 7.397s
-found 2 low severity vulnerabilities
-  run `npm audit fix` to fix them, or `npm audit` for details
-WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules/fsevents):
-npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
-
-
-> recordcall@1.0.0 test /var/www/collection-backend
-> jest
-
-Error: Cannot find module '@shelf/jest-mongodb/jest-preset'
-    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:582:15)
-    at Function.Module._load (internal/modules/cjs/loader.js:508:25)
-    at Module.require (internal/modules/cjs/lonpm WARN recordcall@1.0.0 No description
-npm WARN recordcall@1.0.0 No repository field.
-npm audited 885186 packages in 9.864s
-found 2 low severity vulnerabilities
-  run `npm audit fix` to fix them, or `npm audit` for details
-WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules/fsevents):
-npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
-
-
-> recordcall@1.0.0 test /var/www/collection-backend
-> jest
-
-Error: Cannot find module '@shelf/jest-mongodb/jest-preset'
-    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:582:15)
-    at Function.Module._load (internal/modules/cjs/loader.js:508:25)
-    at Module.require (internal/modules/cjs/loader.js:637:17)
-    at require (internal/modules/cjs/helpers.js:22:18)
-    at Object.<anonymous> (/var/www/collection-backend/jest.config.js:2:21)
-    at Module._compile (internal/modules/cjs/loader.js:701:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
-    at Module.load (internal/modules/cjs/loader.js:600:32)
-    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
-    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
-npm ERR! code ELIFECYCLE
-npm ERR! errno 1
-npm ERR! recordcall@1.0.0 test: `jest`
-npm ERR! Exit status 1
-npm ERR! 
-npm ERR! Failed at the recordcall@1.0.0 test script.
-npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-
-npm ERR! A complete log of this run can be found in:
-npm ERR!     /root/.npm/_logs/2020-02-11T08_28_56_774Z-debug.log
-
-> recordcall@1.0.0 build /var/www/collection-backend
-> tsc
-
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.shfatal: could not read Username for 'https://gitlab.com': No such device or address
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.shfatal: could not read Username for 'https://gitlab.com': No such device or address
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.shfatal: could not read Username for 'https://gitlab.com': No such device or address
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hsssh root@157.230.251.115[?1l>[?2004l
-]2;ssh root@157.230.251.115]1;root@157.230.251.115Welcome to Ubuntu 18.04.3 LTS (GNU/Linux 4.15.0-66-generic x86_64)
-
- * Documentation:  https://help.ubuntu.com
- * Management:     https://landscape.canonical.com
- * Support:        https://ubuntu.com/advantage
-
-  System information as of Tue Feb 11 08:32:26 UTC 2020
-
-  System load:  0.38               Processes:           138
-  Usage of /:   50.4% of 48.29GB   Users logged in:     0
-  Memory usage: 60%                IP address for eth0: 157.230.251.115
-  Swap usage:   97%
-
-  Get cloud support with Ubuntu Advantage Cloud Guest:
-    http://www.ubuntu.com/business/services/cloud
-
- * Canonical Livepatch is available for installation.
-   - Reduce system reboots and improve kernel security. Activate at:
-     https://ubuntu.com/livepatch
-
-104 packages can be updated.
-0 updates are security updates.
-
-
-*** System restart required ***
-Last login: Tue Feb 11 08:26:38 2020 from 180.243.77.144
-]0;root@pertamina-staging: ~root@pertamina-staging:~# gst
-
-Command 'gst' not found, but can be installed with:
-
-apt install gnu-smalltalk
-
-]0;root@pertamina-staging: ~root@pertamina-staging:~# git status
-fatal: not a git repository (or any of the parent directories): .git
-]0;root@pertamina-staging: ~root@pertamina-staging:~# git[K[K[Kcat ~?/[K[K/.ssh/
-authorized_keys  id_rsa           id_rsa.pub       known_hosts      
-]0;root@pertamina-staging: ~root@pertamina-staging:~# cat ~/.ssh/authorized_keys 
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDFIJuIvaSZZdbLaKxt29l3zUWYNNPJ5SQgzRMc2AJyQOpOoeEEXz8d/rv8CzC2uG7R9xQK/09SJTux3YEE9zwQUiylF7QHG+ZrWb/6VcZBmCIux4w3v+io+EMLFF/HC1AJgjgR0Vcus863HNoDveq9XvisQY9cxO0yw6vS6P+WmEuQOHAByFf+4/TBFMXGvVa2ZGQRi75m+CWnLR+se5eCJaPEtVSB15fBPE8eK3Qypzj+M9pqn1dq+kk9+GNif7YXb2oPAVExUO4lWLj/wpga0aCXjvAe27NZAH2nlaCSFlRPWf2f9sKQ7BkY8yxqWXUrMO6n6+NfsupbfGMsjXpBEtjmuU5I+xnWBtUQJhePy2DyjdcPdBstwQl+MpVojOky1fCWHRhAkoEP8eDDsnveFQIqKPRaBQLoeOcDbS0Rnl4Iv3vGcPsZtMFEsLEDgrtPf9Rp0YkHoXwQU4ZOi/L5zCIiBbPaF3O5KoN2ofi8jLrTdVhRVmFC8PQ3UqLpHtwJtJWhc8aXDB/gH/vt/IWSfiNiCdnogQ4IvroF56CQSf45qE4Xgdwz7gOVG65C+5Y+lm7C4a6r4NXUNk7Ntb2lqGylfDseuUwMmYGGq+fOrKiE7e/63EaySe409vFKavQx4JoLtN9Ro1hbh5+bckEugVCp14mAchSjkoxGQ7CjJQ== hanifeij@yahoo.co.id
-]0;root@pertamina-staging: ~root@pertamina-staging:~# clip
-
-Command 'clip' not found, but can be installed with:
-
-apt install geomview
-
-]0;root@pertamina-staging: ~root@pertamina-staging:~# yar[K[K[Kp[Ksudo apt-get install xclip
-Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
-Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
-Reading state information... 0%Reading state information... 0%Reading state information... Done
-The following additional packages will be installed:
-  libice6 libsm6 libxmu6 libxt6 x11-common
-The following NEW packages will be installed:
-  libice6 libsm6 libxmu6 libxt6 x11-common xclip
-0 upgraded, 6 newly installed, 0 to remove and 120 not upgraded.
-Need to get 302 kB of archives.
-After this operation, 1140 kB of additional disk space will be used.
-Do you want to continue? [Y/n] y
-0% [Working]            Get:1 http://mirrors.digitalocean.com/ubuntu bionic-updates/main amd64 x11-common all 1:7.7+19ubuntu7.1 [22.5 kB]
-0% [1 x11-common 0 B/22.5 kB 0%]                                9% [Working]            Get:2 http://mirrors.digitalocean.com/ubuntu bionic/main amd64 libice6 amd64 2:1.0.9-2 [40.2 kB]
-9% [2 libice6 0 B/40.2 kB 0%]                             23% [Working]             Get:3 http://mirrors.digitalocean.com/ubuntu bionic/main amd64 libsm6 amd64 2:1.2.2-1 [15.8 kB]
-23% [3 libsm6 0 B/15.8 kB 0%]                             31% [Working]             Get:4 http://mirrors.digitalocea[K[Kp[Ksudo apt-get install xclip
-Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
-Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
-Reading state information... 0%Reading state information... 0%Reading state information... Done
-The following additional packages will be installed:
-  libice6 libsm6 libxmu6 libxt6 x11-common
-The following NEW packages will be installed:
-  libice6 libsm6 libxmu6 libxt6 x11-common xclip
-0 upgraded, 6 newly installed, 0 to remove and 120 not upgraded.
-Need to get 302 kB of archives.
-After this operation, 1140 kB of additional disk space will be used.
-Do you want to continue? [Y/n] y
-0% [Working]            Get:1 http://mirrors.digitalocean.com/ubuntu bionic-updates/main amd64 x11-common all 1:7.7+19ubuntu7.1 [22.5 kB]
-0% [1 x11-common 0 B/22.5 kB 0%]                                9% [Working]            Get:2 http://mirrors.digitalocean.com/ubuntu bionic/main amd64 libice6 amd64 2:1.0.9-2 [40.2 kB]
-9% [2 libice6 0 B/40.2 kB 0%]                             23% [Working]             Get:3 http://mirrors.digitalocean.com/ubuntu bionic/main amd64 libsm6 amd64 2:1.2.2-1 [15.8 kB]
-23% [3 libsm6 0 B/15.8 kB 0%]                             31% [Working]             Get:4 http://mirrors.digitalocean.com/ubuntu bionic/main amd64 libxt6 amd64 1:1.1.5-1 [160 kB]
-31% [4 libxt6 0 B/160 kB 0%]                            76% [Working]             Get:5 http://mirrors.digitalocean.com/ubuntu bionic/main amd64 libxmu6 amd64 2:1.1.2-2 [46.0 kB]
-76% [5 libxmu6 0 B/46.0 kB 0%]                              92% [Working]             Get:6 http://mirrors.digitalocean.com/ubuntu bionic/main amd64 xclip amd64 0.12+svn84-4build1 [17.5 kB]
-92% [6 xclip 0 B/17.5 kB 0%]                            100% [Working]              Fetched 302 kB in 0s (2251 kB/s)
-Selecting previously unselected package x11-common.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 134762 files and directories currently installed.)
-Preparing t0.0-21) ...
-Processing triggers for libc-bin (2.27-3ubuntu1) ...
-]0;root@pertamina-staging: ~root@pertamina-staging:~# xclip -sel clip < ~/.ssh/id_ed25519.pub[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K/
-authorized_keys  id_rsa           id_rsa.pub       known_hosts      
-]0;root@pertamina-staging: ~root@pertamina-staging:~# xclip -sel clip < ~/.ssh/id_rsa.pub 
-Error: Can't open display: (null)
-]0;root@pertamina-staging: ~root@pertamina-staging:~# cat ~/.ssh/id_rsa.pub 
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCXSOSlxMl+28JET6qEt/bYc1jKnThUuxNe58ZYBHLkTgOUiXqMqobw5T4mg+EqTmkLoiZoKsact1/vku3fnz2B6/AdgpP0DKtT8qOOqe6iP4XDiBffB8IdNiBs7Ne2nxwZ5DroHEpFdhpTrVHOfFw0gNqld+jjdJZ5nOgmM0uM9m4CtuQCBxoqAc1s3jDMNQqoS0mubkRDUxVnqs0GdeXoV35YWEd2DGPrVAJ+SsDzayM15CDkr0QZfx/1JgI9wCmh+ENJUyInbXbMDO6Xji8sxZ9dCSNFsr5Qt1aUN6f5ETX0YbCyNTDyynnUmhsta4aDcdudbwDe5M7qBZM75zjt root@pertamina-staging
-]0;root@pertamina-staging: ~root@pertamina-staging:~# ls
-[0m[01;34mdump[0m  [01;34mdumpJan132020[0m  [01;32minstallmq[0m  ss
-]0;root@pertamina-staging: ~root@pertamina-staging:~# cd /var/www/collection-[K-backend/
-]0;root@pertamina-staging: /var/www/collection-backendroot@pertamina-staging:/var/www/collection-backend# ls
-Dockerfile           index.js                package-lock.json  tsconfig.json
-[0m[01;34mdb[0m                   jest-mongodb-config.js  package.json       tslint.json
-[01;34mdist[0m                 jest.config.js          [01;34mpublic[0m             yarn.lock
-docker-compose.yaml  [01;34mmongo[0m                   [01;34mseeder[0m
-[01;34mdump[0m                 [01;34mnode_modules[0m            [01;34msrc[0m
-import_data.sh       nodemon.json            task.json
-]0;root@pertamina-staging: /var/www/collection-backendroot@pertamina-staging:/var/www/collection-backend# git stat[K[K[Kr[K[Kremote -v
-origin	https://gitlab.com/hanipcode/collection-backend.git (fetch)
-origin	https://gitlab.com/hanipcode/collection-backend.git (push)
-]0;root@pertamina-staging: /var/www/collection-backendroot@pertamina-staging:/var/www/collection-backend# gite [K[K remov[Kte remove origin
-]0;root@pertamina-staging: /var/www/collection-backendroot@pertamina-staging:/var/www/collection-backend# git remote ad d[K[Kd origin git@gitlab.com::hanipcode/collection-backend.git
-]0;root@pertamina-staging: /var/www/collection-backendroot@pertamina-staging:/var/www/collection-backend# git pull origin master
-From gitlab.com:hanipcode/collection-backend
- * branch            master     -> FETCH_HEAD
- * [new branch]      master     -> origin/master
-Already up to date.
-]0;root@pertamina-staging: /var/www/collection-backendroot@pertamina-staging:/var/www/collection-backend# git pull origin masterremote add origin git@gitlab.com::hanipcode/collection-backend.git[A]0;root@pertamina-staging: /var/www/collection-backendroot@pertamina-staging:/var/www/collection-backend# [C[C[C[C[C[C[C[C[C[C[C[12Premove origin
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-v[K
-origin	git@gitlab.com:hanipcode/collection-backend.git (fetch)
-origin	git@gitlab.com:hanipcode/collection-backend.git (push)
-]0;root@pertamina-staging: /var/www/collection-backendroot@pertamina-staging:/var/www/collection-backend# exit
-logout
-Connection to 157.230.251.115 closed.
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hssh root@157.230.251.115[24D./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.shFrom gitlab.com:hanipcode/collection-backend
- * branch            master     -> FETCH_HEAD
-Already up to date.
-npm WARN recordcall@1.0.0 No description
-npm WARN recordcall@1.0.0 No repository field.
-npm audited 885186 packages in 9.252s
-found 2 low severity vulnerabilities
-  run `npm audit fix` to fix them, or `npm audit` for details
-WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules/fsevents):
-npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
-
-
-> recordcall@1.0.0 test /var/www/collection-backend
-> jest
-
-Error: Cannot find module '@shelf/jest-mongodb/jest-preset'
-    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:582:15)
-    at Function.Module._load (internal/modules/cjs/loader.js:508:25)
-    at Module.require (internal/modules/cjs/loader.js:637:17)
-    at require (internal/modules/cjs/helpers.js:22:18)
-    at Object.<anonymous> (/var/www/collection-backend/jest.config.js:2:21)
-    at Module._compile (internal/modules/cjs/loader.js:701:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
-    at Module.load (internal/modules/cjs/loader.js:600:32)
-    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
-    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
-npm ERR! code ELIFECYCLE
-npm ERR! errno 1
-npm ERR! recordcall@1.0.0 test: `jest`
-npm ERR! Exit status 1
-npm ERR! 
-npm ERR! Failed at the recordcall@1.0.0 test script.
-npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
-
-npm ERR! A complete log of this run can be found in:
-npm ERR!     /root/.npm/_logs/2020-02-11T08_37_31_044Z-debug.log
-
-> recordcall@1.0.0 build /var/www/collection-backend
-> tsc
-
-^C[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls[31mbuilder.sh[39;49m[0m      log             ssh-session.log trycatch.sh     typescript
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hls./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.sh./builder.sh: line 30: cd: ROOT_PROJECT: No such file or directory
-^C[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.sh./builder.sh: line 30: cd: ~/Project/nusantech/recordcall: No such file or directory
-^C[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h~~/Projects[1m/[0m[0m/nusantech[1m/[0m[0m/recordcall[1m/[0m[?2004l
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.sh./builder.sh: line 30: cd: ~/Projects/nusantech/recordcall: No such file or directory
-^C[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.shrm: log: No such file or directory
-^C[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"[K[?1l>[?2004l
-]2;./builder.sh -e server -h root@157.230.251.115 -l log -m "hanif"]1;./builder.sh^C[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls[31mbuilder.sh[39;49m[0m      log             ssh-session.log trycatch.sh     typescript
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls[31mbuilder.sh[39;49m[0m      log             ssh-session.log trycatch.sh     typescript
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd / ~/Projects[1m/[0m[0m/nusantech[1m/[0m[0m [?1l>[?2004l
-]2;cd ~/Projects/nusantech]1;cd[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech]1;..cts/nusantech[0m[27m[24m[J[01;32m➜  [36mnusantech[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls[1m[36mbni-backend[39;49m[0m                  [1m[36mlibold[39;49m[0m                       [1m[36mstockitid-customer-app[39;49m[0m
-[1m[36mbni-web-profile[39;49m[0m              [1m[36mnusarecord[39;49m[0m                   [1m[36mtwisamp[39;49m[0m
-[1m[36mbni-web-profile-dashboard[39;49m[0m    [1m[36mrecold[39;49m[0m                       [1m[36mvoice-quickstart-server-node[39;49m[0m
-[1m[36mcollectionmobile[39;49m[0m             [1m[36mrecordcall[39;49m[0m
-[1m[36mfluterecord[39;49m[0m                  [1m[36mrecordfrontend[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech]1;..cts/nusantech[0m[27m[24m[J[01;32m➜  [36mnusantech[00m [K[?1h=[?2004hccd reco
-[J[1;31mrecold[0m/          [J[1;31mrecordcall[0m/      [J[1;31mrecordfrontend[0m/[J[A[0m[27m[24m[13Ccd reco[Krd
-[J[J[1;31mrecordcall[0m/      [J[1;31mrecordfrontend[0m/[J[A[0m[27m[24m[13Ccd record[Kcall[1m/[0m[0m [?1l>[?2004l
-[J]2;cd recordcall]1;cd[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mfaeture/restructure[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;lsDockerfile             jest.config.js         [1m[36mseeder[39;49m[0m
-[1m[36mdb[39;49m[0m                     log                    [1m[36msrc[39;49m[0m
-[1m[36mdist[39;49m[0m                   [1m[36mmongo[39;49m[0m                  task.json
-docker-compose.yaml    [1m[36mnode_modules[39;49m[0m           tsconfig.json
-[1m[36mdump[39;49m[0m                   nodemon.json           tslint.json
-import_data.sh         package-lock.json      yarn-error.log
-index.js               package.json           yarn.lock
-jest-mongodb-config.js [1m[36mpublic[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/r reco
-[J[1;31mrecold[0m/          [J[1;31mrecordcall[0m/      [J[1;31mrecordfrontend[0m/[J[A[0m[27m[24m[13Ccd reco[Krd
-[J[J[1;31mrecordcall[0m/     [0m [?1l>[?2004l
-]2;rm log]1;rm[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mfaeture/restructure[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;lsDockerfile             jest.config.js         [1m[36msrc[39;49m[0m
-[1m[36mdb[39;49m[0m                     [1m[36mmongo[39;49m[0m                  task.json
-[1m[36mdist[39;49m[0m                   [1m[36mnode_modules[39;49m[0m           tsconfig.json
-docker-compose.yaml    nodemon.json           tslint.json
-[1m[36mdump[39;49m[0m                   package-lock.json      yarn-error.log
-import_data.sh         package.json           yarn.lock
-index.js               [1m[36mpublic[39;49m[0m
-jest-mongodb-config.js [1m[36mseeder[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mfaeture/restructure[34m) [33m✗[00m [K[?1h=[?2004hggst[?1l>[?2004l
-]2;git status]1;gstOn branch faeture/restructure
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	[31mmodified:   src/modules/Customer/customer.controller.ts[m
-	[31mmodified:   src/modules/Customer/customer.model.ts[m
-	[31mmodified:   src/modules/Customer/types/Customer.types.ts[m
-	[31mmodified:   src/modules/Task/task.controller.ts[m
-	[31mmodified:   src/modules/Task/task.model.ts[m
-	[31mmodified:   src/modules/User/types/user.types.ts[m
-	[31mmodified:   src/modules/User/user.model.ts[m
-	[31mmodified:   yarn.lock[m
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	[31msrc/modules/Customer/helpers/[m
-	[31msrc/modules/Customer/types/ImporterdCustomer.types.ts[m
-	[31msrc/modules/Loan/[m
-	[31msrc/modules/Task/types/[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mfaeture/restructure[34m) [33m✗[00m [K[?1h=[?2004hggcm[?1l>[?2004l
-]2;git checkout master]1;gcmM	src/modules/Customer/customer.controller.ts
-M	src/modules/Customer/customer.model.ts
-M	src/modules/Customer/types/Customer.types.ts
-M	src/modules/Task/task.controller.ts
-M	src/modules/Task/task.model.ts
-M	src/modules/User/types/user.types.ts
-M	src/modules/User/user.model.ts
-M	yarn.lock
-Switched to branch 'master'
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggst[?1l>[?2004l
-]2;git status]1;gstOn branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	[31mmodified:   src/modules/Customer/customer.controller.ts[m
-	[31mmodified:   src/modules/Customer/customer.model.ts[m
-	[31mmodified:   src/modules/Customer/types/Customer.types.ts[m
-	[31mmodified:   src/modules/Task/task.controller.ts[m
-	[31mmodified:   src/modules/Task/task.model.ts[m
-	[31mmodified:   src/modules/jects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mfaeture/restructure[34m) [33m✗[00m [K[?1h=[?2004hwhat will be committed)
-
-	[31msrc/modules/Customer/helpers/[m
-	[31msrc/modules/Customer/types/ImporterdCustomer.types.ts[m
-	[31msrc/modules/Loan/[m
-	[31msrc/modules/Task/types/[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggco fea    o[?1l>[?2004l
-]2;git checkout]1;gcoM	src/modules/Customer/customer.controller.ts
-M	src/modules/Customer/customer.model.ts
-M	src/modules/Customer/types/Customer.types.ts
-M	src/modules/Task/task.controller.ts
-M	src/modules/Task/task.model.ts
-M	src/modules/User/types/user.types.ts
-M	src/modules/User/user.model.ts
-M	yarn.lock
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hg b ggit branch[?1l>[?2004l
-]2;git branch]1;git[?1049h[?1h=  faeture/restructure[m[m
-* [32mmaster[m[m
-[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
-  faeture/restructure[m[m
-* [32mmaster[m[m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[1m~[0m
-[7m(END)[27m[K[K[7m(END)[27m[K[K[?1l>[?1049l
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;31m➜  [36mrecordcall[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggvo g gco faeture/restructure [1m [0m[0m [?1l>[?2004l
-]2;git checkout faeture/restructure]1;gcoM	src/modules/Customer/customer.controller.ts
-M	src/modules/Customer/customer.model.ts
-M	src/modules/Customer/types/Customer.types.ts
-M	src/modules/Task/task.controller.ts
-M	src/modules/Task/task.model.ts
-M	src/modules/User/types/user.types.ts
-M	src/modules/User/user.model.ts
-M	yarn.lock
-Switched to branch 'faeture/restructure'
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mfaeture/restructure[34m) [33m✗[00m [K[?1h=[?2004hggcam "sementara"[?1l>[?2004l
-]2;git commit -a -m "sementara"]1;gcam[faeture/restructure 12109b8] sementara
- 8 files changed, 214 insertions(+), 804 deletions(-)
- rewrite src/modules/Customer/customer.model.ts (96%)
- rewrite src/modules/Customer/types/Customer.types.ts (68%)
- rewrite src/modules/Task/task.model.ts (90%)
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mfaeture/restructure[34m) [33m✗[00m [K[?1h=[?2004hggcm[?1l>[?2004l
-]2;git checkout master]1;gcmSwitched to branch 'master'
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggst[?1l>[?2004l
-]2;git status]1;gstOn branch master
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	[31msrc/modules/Customer/helpers/[m
-	[31msrc/modules/Customer/types/ImporterdCustomer.types.ts[m
-	[31msrc/modules/Loan/[m
-	[31msrc/modules/Task/types/[m
-
-nothing added to commit but untracked files present (use "git add" to track)
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hgstgcmam "sementara"[14Do faeture/restructure [?1l>[?2004l
-]2;git checkout faeture/restructure]1;gcoSwitched to branch 'faeture/restructure'
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mfaeture/restructure[34m) [33m✗[00m [K[?1h=[?2004hgga .[?1l>[?2004l
-]2;git add .]1;ga[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mfaeture/restructure[34m) [33m✗[00m [K[?1h=[?2004hga .gco faeture/restructure [24Dgst                    [20Dgcmam "sementara"[?1l>[?2004l
-]2;git commit -a -m "sementara"]1;gcam[faeture/restructure 091b176] sementara
- 8 files changed, 267 insertions(+)
- create mode 100644 src/modules/Customer/helpers/handleLoanExists.ts
- create mode 100644 src/modules/Customer/helpers/handleSetToInactiveTask.ts
- create mode 100644 src/modules/Customer/helpers/handleTaskDIstribution.ts
- create mode 100644 src/modules/Customer/helpers/importedCustomerToTask.ts
- create mode 100644 src/modules/Customer/types/ImporterdCustomer.types.ts
- create mode 100644 src/modules/Loan/loan.model.ts
- create mode 100644 src/modules/Loan/types/loan.types.ts
- create mode 100644 src/modules/Task/types/task.types.ts
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mfaeture/restructure[34m)[00m [K[?1h=[?2004hggst[?1l>[?2004l
-]2;git status]1;gstOn branch faeture/restructure
-nothing to commit, working tree clean
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mfaeture/restructure[34m)[00m [K[?1h=[?2004hggcm[?1l>[?2004l
-]2;git checkout master]1;gcmSwitched to branch 'master'
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hggst[?1l>[?2004l
-]2;git status]1;gstOn branch master
-nothing to commit, working tree clean
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hccode .[?1l>[?2004l
-]2;code .]1;code[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hgggpush[?1l>[?2004l
-]2;git push origin "$(git_current_branch)"]1;ggpushEverything up-to-date
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hsssh root@157.230.251.115[?1l>[?2004l
-]2;ssh root@157.230.251.115]1;root@157.230.251.115Welcome to Ubuntu 18.04.3 LTS (GNU/Linux 4.15.0-66-generic x86_64)
-
- * Documentation:  https://help.ubuntu.com
- * Management:     https://landscape.canonical.com
- * Support:        https://ubuntu.com/advantage
-
-  System information as of Tue Feb 11 08:42:18 UTC 2020
-
-  System load:  0.4                Processes:           137
-  Usage of /:   50.4% of 48.29GB   Users logged in:     0
-  Memory usage: 59%                IP address for eth0: 157.230.251.115
-  Swap usage:   99%
-
-  Get cloud support with Ubuntu Advantage Cloud Guest:
-    http://www.ubuntu.com/business/services/cloud
-
- * Canonical Livepatch is available for installation.
-   - Reduce system reboots and improve kernel security. Activate at:
-     https://ubuntu.com/livepatch
-
-104 packages can be updated.
-0 updates are security updates.
-
-
-*** System restart required ***
-Last login: Tue Feb 11 08:32:27 2020 from 112.78.164.207
-]0;root@pertamina-staging: ~root@pertamina-staging:~# cd /var/www/collection-backend/
-]0;root@pertamina-staging: /var/www/collection-backendroot@pertamina-staging:/var/www/collection-backend# ls
-Dockerfile           index.js                package-lock.json  tsconfig.json
-[0m[01;34mdb[0m                   jest-mongodb-config.js  package.json       tslint.json
-[01;34mdist[0m                 jest.config.jsssh root@157.230.251.115[?1l>[?2004l
-]2;ssh root@157.230.251.115]1;root@157.230.251.115Welcome to Ubuntu 18.04.3 LTS (GNU/Linux 4.15.0-66-generic x86_64)
-
- * Documentation:  https://help.ubuntu.com
- * Management:     https://landscape.canonical.com
- * Support:        https://ubuntu.com/advantage
-
-  System information as of Tue Feb 11 08:42:18 UTC 2020
-
-  System load:  0.4                Processes:           137
-  Usage of /:   50.4% of 48.29GB   Users logged in:     0
-  Memory usage: 59%                IP address for eth0: 157.230.251.115
-  Swap usage:   99%
-
-  Get cloud support with Ubuntu Advantage Cloud Guest:
-    http://www.ubuntu.com/business/services/cloud
-
- * Canonical Livepatch is available for installation.
-   - Reduce system reboots and improve kernel security. Activate at:
-     https://ubuntu.com/livepatch
-
-104 packages can be updated.
-0 updates are security updates.
-
-
-*** System restart required ***
-Last login: Tue Feb 11 08:32:27 2020 from 112.78.164.207
-]0;root@pertamina-staging: ~root@pertamina-staging:~# cd /var/www/collection-backend/
-]0;root@pertamina-staging: /var/www/collection-backendroot@pertamina-staging:/var/www/collection-backend# ls
-Dockerfile           index.js                package-lock.json  tsconfig.json
-[0m[01;34mdb[0m                   jest-mongodb-config.js  package.json       tslint.json
-[01;34mdist[0m                 jest.config.js          [01;34mpublic[0m             yarn.lock
-docker-compose.yaml  [01;34mmongo[0m                   [01;34mseeder[0m
-[01;34mdump[0m                 [01;34mnode_modules[0m            [01;34msrc[0m
-import_data.sh       nodemon.json            task.json
-]0;root@pertamina-staging: /var/www/collection-backendroot@pertamina-staging:/var/www/collection-backend# rm ya[K[Kpackage-lock.json 
-]0;root@pertamina-staging: /var/www/collection-backendroot@pertamina-staging:/var/www/collection-backend# npm install
-[?25l[[90m..................[0m] | rollbackFailedOptional: [34;40mverb[0m [35mnpm-session[0m 398c0587900a603a[0m[K[[7m [27m[90m.................[0m] | preinstall:recordcall: [32minfo[0m [35mlifecycle[0m recordcall@1.0.0~preinstal[0m[K[[7m [27m[90m.................[0m] | preinstall:recordcall: [32minfo[0m [35mlifecycle[0m recordcall@1.0.0~preinstal[0m[K[[7m [27m[90m.................[0m] | preinstall:recordcall: [32minfo[0m [35mlifecycle[0m recordcall@1.0.0~preinstal[0m[K[[7m [27m[90m.................[0m] | preinstall:recordcall: [32minfo[0m [35mlifecycle[0m recordcall@1.0.0~preinstal[0m[K[[7m [27m[90m.................[0m] | preinstall:recordcate: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m   [27m[90m...............[0m] | loadDep:unpack-string: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m   [27m[90m...............[0m] | loadDep:vary: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m   [27m[90m...............[0m] | loadDep:semver: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:tsconfig: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:strip-indent: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:repeating: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:resolve-from: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:stack-utils: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:isobject: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:urix: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:write-file-atomic: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[0m] | loadDep:util-deprecate: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m   [27m[90m...............[0m] | loadDep:unpack-string: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m   [27m[90m...............[0m] | loadDep:vary: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m   [27m[90m...............[0m] | loadDep:semver: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:tsconfig: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:strip-indent: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:repeating: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:resolve-from: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:stack-utils: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:isobject: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:urix: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:write-file-atomic: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:json-parse-better-errors: [7msill[0m [35minstall[0m loadAllDepsIntoId[0m[K[[7m    [27m[90m..............[0m] | loadDep:walker: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:walker: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:walker: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:walker: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:walker: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:walker: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:walker: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:walker: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | loadDep:walker: [7msill[0m [35minstall[0m loadAllDepsIntoIdealTree[0m[K[[7m    [27m[90m..............[0m] | th@1.0.0[0m[K[[7m    [27m[90m..............[0m] / loadDep:uuid: [7msill[0m [35mresolveWithNewModule[0m file-uri-to-path@1.0.0 c[0m[K[[7m    [27m[90m..............[0m] / loadDep:pretty-format: [7msill[0m [35mresolveWithNewModule[0m file-uri-to-pat[0m[K[[7m    [27m[90m..............[0m] / loadDep:upath: [7msill[0m [35mresolveWithNewModule[0m file-uri-to-path@1.0.0[0m[K[[7m    [27m[90m..............[0m] / loadDep:path-is-inside: [7msill[0m [35mresolveWithNewModule[0m file-uri-to-pa[0m[K[[7m       [27m[90m...........[0m] | diffTrees: [7msill[0m [35minstall[0m generateActionsToTake[0m[K[[7m       [27m[90m...........[0m] | diffTrees: [7msill[0m [35minstall[0m generateActionsToTake[0m[K[[7m           [27m[90m.......[0m] \ extract:file-uri-to-path: [7msill[0m [35mpacote[0m file-uri-to-path@https://r[0m[K[[7m           [27m[90m.......[0m] \ extract:file-uri-to-path: [7msill[0m [35mpacote[0m file-uri-to-path@https://r[0m[K[[7m           [27m[90m.......[0m] \ extract:file-uri-to-path: [7msill[0m [35mpacote[0m file-uri-to-path@https://r[0m[K[[7m           [27m[90m.......[0m] \ extract:file-uri-to-path: [7msill[0m [35mpacote[0m file-uri-to-path@https://r[0m[K[[7m            [27m[90m......[0m] / finalize:object-assign: [7msill[0m [35mfinalize[0m /var/www/collection-backen[0m[K[[7m            [27m[90m......[0m] - finalize:node-pre-gyp: [7msill[0m [35mfinalize[0m /var/www/collection-backend[0m[K[[7m            [27m[90m......[0m] / refresh-package-json:fsevents: [7msill[0m [35mfinalize[0m /var/www/collection[0m[K[[7m            [27m[90m......[0m] / refresh-package-json:minimist: [7msill[0m [35mrefresh-package-json[0m /var/ww[0m[K[[7m            [27m[90m......[0m] | postinstall: [7msill[0m [35mdoSerial[0m postinstall 426[0m[K[[7m            [27m[90m......[0m] | postinstall: [7msill[0m [35mdoSerial[0m postinstall 426[0m[K[[7m             [27m[90m.....[0m] \ prepare:recordcall: [32minfo[0[[7m       [27m[90m...........[0m] | diffTrees: [7msill[0m [35minstall[0m generateActionsToTake[0m[K[[7m           [27m[90m.......[0m] \ extract:file-uri-to-path: [7msill[0m [35mpacote[0m file-uri-to-path@https://r[0m[K[[7m           [27m[90m.......[0m] \ extract:file-uri-to-path: [7msill[0m [35mpacote[0m file-uri-to-path@https://r[0m[K[[7m           [27m[90m.......[0m] \ extract:file-uri-to-path: [7msill[0m [35mpacote[0m file-uri-to-path@https://r[0m[K[[7m           [27m[90m.......[0m] \ extract:file-uri-to-path: [7msill[0m [35mpacote[0m file-uri-to-path@https://r[0m[K[[7m            [27m[90m......[0m] / finalize:object-assign: [7msill[0m [35mfinalize[0m /var/www/collection-backen[0m[K[[7m            [27m[90m......[0m] - finalize:node-pre-gyp: [7msill[0m [35mfinalize[0m /var/www/collection-backend[0m[K[[7m            [27m[90m......[0m] / refresh-package-json:fsevents: [7msill[0m [35mfinalize[0m /var/www/collection[0m[K[[7m            [27m[90m......[0m] / refresh-package-json:minimist: [7msill[0m [35mred
-
-> recordcall@1.0.0 build /var/www/collection-backend
-> tsc
-
-]0;root@pertamina-staging: /var/www/collection-backendroot@pertamina-staging:/var/www/collection-backend# exit
-logout
-Connection to 157.230.251.115 closed.
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hssh root@157.230.251.115[24D                        [24Dssh root@157.230.251.115[24Dggpush                  [18Dcode .gst   gcm g  lls[?1l>[?2004l
-]2;ls -G]1;lsDockerfile             jest.config.js         [1m[36msrc[39;49m[0m
-[1m[36mdb[39;49m[0m                     [1m[36mmongo[39;49m[0m                  task.json
-[1m[36mdist[39;49m[0m                   [1m[36mnode_modules[39;49m[0m           tsconfig.json
-docker-compose.yaml    nodemon.json           tslint.json
-[1m[36mdump[39;49m[0m                   package-lock.json      yarn-error.log
-import_data.sh         package.json           yarn.lock
-index.js               [1m[36mpublic[39;49m[0m
-jest-mongodb-config.js [1m[36mseeder[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech/recordcall]1;..ch/recordcall[0m[27m[24m[J[01;32m➜  [36mrecordcall[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hccd ..[?1l>[?2004l
-]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech]1;..cts/nusantech[0m[27m[24m[J[01;32m➜  [36mnusantech[00m [K[?1h=[?2004h;;s;  lls[?1l>[?2004l
-]2;ls -G]1;ls[1m[36mbni-backend[39;49m[0m                  [1m[36mlibold[39;49m[0m                       [1m[36mstockitid-customer-app[39;49m[0m
-[1m[36mbni-web-profile[39;49m[0m              [1m[36mnusarecord[39;49m[0m                   [1m[36mtwisamp[39;49m[0m
-[1m[36mbni-web-profile-dashboard[39;49m[0m    [1m[36mrecold[39;49m[0m                       [1m[36mvoice-quickstart-server-node[39;49m[0m
-[1m[36mcollectionmobile[39;49m[0m             [1m[36mrecordcall[39;49m[0m
-[1m[36mfluterecord[39;49m[0m                  [1m[36mrecordfrontend[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/nusantech]1;..cts/nusantech[0m[27m[24m[J[01;32m➜  [36mnusantech[00m [K[?1h=[?2004hccd ..[?1l>[?2004l
-]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects]1;~/Projects[0m[27m[24m[J[01;32m➜  [36mProjects[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls[1m[36mbase_ts[39;49m[0m             [1m[36mlearn[39;49m[0m               [1m[36mpersonal[39;49m[0m            [1m[36mtestwi[39;49m[0m
-[1m[36mindonesiansong[39;49m[0m      [1m[36mnusantech[39;49m[0m           [1m[36mrikimaru[39;49m[0m
-[1m[36mjest-react-cookbook[39;49m[0m [1m[36mparser[39;49m[0m              [1m[36mtask[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects]1;~/Projects[0m[27m[24m[J[01;32m➜  [36mProjects[00m [K[?1h=[?2004hccd rikimaru[1m/[0m[0m [?1l>[?2004l
-]2;cd rikimaru]1;cd[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hkks[?1l>[?2004l
-]2;ks]1;kszsh: command not found: ks
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hg llnl  ssudo ln -s       s  lls[?1l>[?2004l
-]2;ls -G]1;ls[31mbuilder.sh[39;49m[0m      log             ssh-session.log trycatch.sh     typescript
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hmmv builder.sh[1m [0m[0m upload_node_            rk_upload_Node    node[?1l>[?2004l
-]2;mv builder.sh rk_upload_node]1;mv[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;lslog             [31mrk_upload_node[39;49m[0m  ssh-session.log trycatch.sh     typescript
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hssud ln -s rk_upload_node[1m [0m[0m /us
-[J[1;31mUsers[0m/  [J[1;31musr[0m/  [J[A[0m[27m[24m[27Csud ln -s rk_upload_node /us[Kr[1m/[0m[0m/bin[1m/[0m[0m/rk_up
-[J[A[66Cload_node e[?1l>[?2004l
-[J]2;sud ln -s rk_upload_node /usr/bin/rk_upload_node]1;sudzsh: command not found: sud
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hsud ln -s rk_upload_node /usr/bin/rk_upload_node[48D[1C[1C[1C[1Cp ln -s [23P[14C /usr/bin/rk_upload_node[45D[P[45C [46Do ln -s [23P[14C /usr/bin/rk_upload_node[45D[?1l>[?2004l
-]2;sudo ln -s rk_upload_node /usr/bin/rk_upload_node]1;lnPassword:
-ln: /usr/bin/rk_upload_node: Operation not permitted
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hsudo ln -s rk_upload_node /usr/bin/rk_upload_node[1C                    
-[J[1;31mUsers[0m/  [J[1;31musr[0m/  [J[A[0m[27m[24m[27Csudo ln -s rk_upload_node /us[Kr[1m/[0m[0m     /U us
-[J[J[1;31mUsers[0m/  [J[1;31musr[0m/  [J[A[0m[27m[24m[27Csudo ln -s rk_upload_node /us[KUsers[1m/[0m
-[J[7mUsers/[0m  [J[1;31musr[0m/  [J[A[0m[27m[24m[27Csudo ln -s rk_upload_node /Users[1m/[0m[K
-[7mUsers/[0m  [7mUsers/[0m  [A[0m[27m[24m[27Csudo ln -s rk_upload_node /Users[1m/[0m[Kusr[1m/[0m [0m 
-[8C[7musr/  [0m[1;31mUsers[0m/  [A[0m[27m[24m[27Csudo ln -s rk_upload_node /usr[1m/[0m[K
-[J[A[58C[0m/share[1m/[0m[0m/
-[J[1;31mCSI[0m/                          [1;31mlocale[0m/                     
-[1;31mCoreDuetDaemonConfig.bundle[0m/  [1;31mman[0m/                        
-[1;31mcalendar[0m/                     [1;31mmecabra[0m/                    
-[1;31mcom.apple.languageassetd[0m/     [1;31mmisc[0m/                       
-[1;31mcracklib[0m/                     [1;31mphp[0m/                        
-[1;31mcups[0m/                         [1;31mpmenergy[0m/                   
-[1;31mdict[0m/                         [1;36mri[0m@                         
-[1;31mdoc[0m/                          [1;31msandbox[0m/                    
-[1;31memacs[0m/                        [1;31mscreen[0m/                     
-[1;31mexamples[0m/                     [1;31mskel[0m/                       
-[1;31mfile[0m/                         [1;31msnmp[0m/                       
-[1;31mfirmware[0m/                     [1;31mtabset[0m/                     
-[1;31mgermantok[0m/                    [1;31mterminfo[0m/                   
-[1;31mgroff[0m/                        [1;31mtexinfo[0m/                    
-[1;31mhiutil[0m/                       [1;31mthermald.bundle[0m/            
-[1;31mhttpd[0m/                        [1;31mtokenizer[0m/                  
-[1;31micu[0m/                          [1;31mucupdate[0m/                   
-[1;31minfo[0m/                         [1;31muucp[0m/                       
-[1;31mjava[0m/                         [1;31mvim[0m/                        
-[J[1;31mkdrl.bundle[0m/                  [J[1;36mzoneinfo[0m@                   [J
-[1;31mkpep[0m/                         [J[1;31mzoneinfo.default[0m/           [J
-[1;31mlangid[0m/                       [J[1;31mzsh[0m/                        [J
-[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m sudo ln -s rk_upload_node /usr/share/[Kb
-[1;31mCoreDuetDaemonConfig.bundle[0m/  [1;31msandbox[0m/                    
-[1;31mcracklib[0m/                     [1;31mtabset[0m/                     
-[1;31mkdrl.bundle[0m/                  [1;31mthermald.bundle[0m/            
-[J[1;31mmecabra[0m/                      [J                            [4A[0m[27m[24m[27Csudo ln -s rk_upload_node /usr/share/b[K 
-[J[1;31mCSI[0m/                          [1;31mlocale[0m/                     
-[1;31mCoreDuetDaemonConfig.bundle[0m/  [1;31mman[0m/                        
-[1;31mcalendar[0m/                     [1;31mmecabra[0m/                    
-[1;31mcom.apple.languageassetd[0m/     [1;31mmisc[0m/                       
-[1;31mcracklib[0m/                     [1;31mphp[0m/                        
-[1;31mcups[0m/                         [1;31mpmenergy[0m/                   
-[1;31mdict[0m/                         [1;36mri[0m@                         
-[1;31mdoc[0m/                          [1;31msandbox[0m/                    
-[1;31memacs[0m/                        [1;31mscreen[0m/                     
-[1;31mexamples[0m/                     [1;31mskel[0m/                       
-[1;31mfile[0m/                         [1;31msnmp[0m/                       
-[1;31mfirmware[0m/                     [1;31mtabset[0m/                     
-[1;31mgermantok[0m/                    [1;31mterminfo[0m/                   
-[1;31mgroff[0m/                        [1;31mtexinfo[0m/                    
-[1;31mhiutil[0m/                       [1;31mthermald.bundle[0m/            
-[1;31mhttpd[0m/                        [1;31mtokenizer[0m/                  
-[1;31micu[0m/                          [1;31mucupdate[0m/                   
-[1;31minfo[0m/                         [1;31muucp[0m/                       
-[1;31mjava[0m/                         [1;31mvim[0m/                        
-[J[1;31mkdrl.bundle[0m/                  [J[1;36mzoneinfo[0m@                   [J
-[1;31mkpep[0m/                         [J[1;31mzoneinfo.default[0m/           [J
-[1;31mlangid[0m/                       [J[1;31mzsh[0m/                        [J
-[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m sudo ln -s rk_upload_node /usr/share/[KCSI[1m/[0m
-[7mCSI/                        [0m  [1;31mlocale[0m/                     [K
-[1;31mCoreDuetDaemonConfig.bundle[0m/  [1;31mman[0m/                        [K
-[1;31mcalendar[0m/                     [1;31mmecabra[0m/                    [K
-[1;31mcom.apple.languageassetd[0m/     [1;31mmisc[0m/                       [K
-[1;31mcracklib[0m/                     [1;31mphp[0m/                        [K
-[1;31mcups[0m/                         [1;31mpmenergy[0m/                   [K
-[1;31mdict[0m/                         [1;36mri[0m@                         [K
-[1;31mdoc[0m/                          [1;31msandbox[0m/                    [K
-[1;31memacs[0m/                        [1;31mscreen[0m/                     [K
-[1;31mexamples[0m/                     [1;31mskel[0m/                       [K
-[1;31mfile[0m/                         [1;31msnmp[0m/                       [K
-[1;31mfirmware[0m/                     [1;31mtabset[0m/                     [K
-[1;31mgermantok[0m/                    [1;31mterminfo[0m/                   [K
-[1;31mgroff[0m/                        [1;31mtexinfo[0m/                    [K
-[1;31mhiutil[0m/                       [1;31mthermald.bundle[0m/            [K
-[1;31mhttpd[0m/                        [1;31mtokenizer[0m/                  [K
-[1;31micu[0m/                          [1;31mucupdate[0m/                   [K
-[1;31minfo[0m/                         [1;31muucp[0m/                       [K
-[1;31mjava[0m/                         [1;31mvim[0m/                        [K
-[J[1;31mkdrl.bundle[0m/                  [J[1;36mzoneinfo[0m@                   [J[J[J[20A[0m[27m[24m[27Csudo ln -s rk_upload_node /usr/share/CSI[1m/[0m[K
-[7mCSI/                        [0m  [7mCSI/                        [0m  [A[0m[27m[24m[27Csudo ln -s rk_upload_node /usr/share/CSI[1m/[0m[K
-[J[A[68C[0m          local[1m/[0m[0m/
-[J[1;31mCaskroom[0m/                     [1;31mlmm[0m/                        
-[1;31mCellar[0m/                       [1;31mopt[0m/                        
-[1;31mFrameworks[0m/                   [1;31mpackager[0m/                   
-[1;31mHomebrew[0m/                     [1;36mphp5[0m@                       
-[1;31mbin[0m/                          [1;31mphp5-7.2.21-20190811-210031[0m/
-[1;31metc[0m/                          [1;31msbin[0m/                       
-[1;31mgo[0m/                           [1;31mshare[0m/                      
-[1;31minclude[0m/                      [1;31mvar[0m/                        
-[J[1;31mlib[0m/                          [J                            [9A[0m[27m[24m[27Csudo ln -s rk_upload_node /usr/local/[Kbin[1m/[0m[0m/rk_upload_node[?1l>[?2004l
-[J]2;sudo ln -s rk_upload_node /usr/local/bin/rk_upload_node]1;ln[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hrrk_uP   r  //USR/usr[1m/[0m[0m/Llocal[1m/[0m[0m/
-[1;31mCaskroom[0m/                     [1;31mlmm[0m/                        
-[1;31mCellar[0m/                       [1;31mopt[0m/                        
-[1;31mFrameworks[0m/                   [1;31mpackager[0m/                   
-[1;31mHomebrew[0m/                     [1;36mphp5[0m@                       
-[1;31mbin[0m/                          [1;31mphp5-7.2.21-20190811-210031[0m/
-[1;31metc[0m/                          [1;31msbin[0m/                       
-[1;31mgo[0m/                           [1;31mshare[0m/                      
-[1;31minclude[0m/                      [1;31mvar[0m/                        
-[J[1;31mlib[0m/                          [J                            [9A[0m[27m[24m[27C/usr/local/[Kbin[1m/[0m[0m/
-[Jzsh: do you wish to see all 251 possibilities (84 lines)? n[J[A[0m[27m[24m[27C/usr/local/bin/[K2to3
-[7m2to3@                      [0m  [1;36mglib-genmarshal[0m@             [1;36mpython[0m@                    [K
-[1;36m2to3-2[0m@                      [1;36mglib-gettextize[0m@             [1;36mpython-config[0m@             [K
-[1;36m2to3-2.7[0m@                    [1;36mglib-mkenums[0m@                [1;36mpython2[0m@                   [K
-[1;36m2to3-3.7[0m@                    [1;36mgobject-query[0m@               [1;36mpython2-   r  //USR/usr[1m/[0m[0m/Llocal[1m/[0m[0m/
-[1;31mCaskroom[0m/                     [1;31mlmm[0m/                        
-[1;31mCellar[0m/                       [1;31mopt[0m/                        
-[1;31mFrameworks[0m/                   [1;31mpackager[0m/                   
-[1;31mHomebrew[0m/                     [1;36mphp5[0m@                       
-[1;31mbin[0m/                          [1;31mphp5-7.2.21-20190811-210031[0m/
-[1;31metc[0m/                          [1;31msbin[0m/                       
-[1;31mgo[0m/                           [1;31mshare[0m/                      
-[1;31minclude[0m/                      [1;31mvar[0m/                        
-[J[1;31mlib[0m/                          [J                            [9A[0m[27m[24m[27C/usr/local/[Kbin[1m/[0m[0m/
-[Jzsh: do you wish to see all 251 possibilities (84 lines)? n[J[A[0m[27m[24m[27C/usr/local/bin/[K2to3
-[7m2to3@                      [0m  [1;36mglib-genmarshal[0m@             [1;36mpython[0m@                    [K
-[1;36m2to3-2[0m@                      [1;36mglib-gettextize[0m@             [1;36mpython-config[0m@             [K
-[1;36m2to3-2.7[0m@                    [1;36mglib-mkenums[0m@                [1;36mpython2[0m@                   [K
-[1;36m2to3-3.7[0m@                    [1;36mgobject-query[0m@               [1;36mpython2-config[0m@            [K
-[1;36mbash[0m@                        [1;36mgr2fonttest[0m@                 [1;36mpython2.7[0m@                 [K
-[1;36mbashbug[0m@                     [1;36mgresource[0m@                   [1;36mpython2.7-config[0m@          [K
-[1;36mbrew[0m@                        [1;36mgsettings[0m@                   [1;36mpython3[0m@                   [K
-[1;36mbsondump[0m@                    [1;36mgtester[0m@                     [1;36mpython3-config[0m@            [K
-[1;36mcairo-sphinx[0m@                [1;36mgtester-report[0m@              [1;36mpython3.7[0
-[7m2to3@                      [0m  [7m2to3@                      [0m  [A[0m[27m[24m[27C/usr/local/bin/2to3[K-2
-[1;36m2to3[0m@                        [1B[7m2to3-2@                    [0m  [A[A[0m[27m[24m[27C/usr/local/bin/2to3-2[K.7
-[1B[1;36m2to3-2[0m@                      [1B[7m2to3-2.7@                  [0m  [3A[0m[27m[24m[27C/usr/local/bin/2to3-2.7[K3[2C
-[2B[1;36m2to3-2.7[0m@                    [1B[7m2to3-3.7@                  [0m  [4A[0m[27m[24m[27C/usr/local/bin/2to3-3.7[K[8Dbash    
-[3B[1;36m2to3-3.7[0m@                    [1B[7mbash@                      [0m  [5A[0m[27m[24m[27C/usr/local/bin/bash[Kbug
-[4B[1;36mbash[0m@                        [1B[7mbashbug@                   [0m  [6A[0m[27m[24m[27C/usr/local/bin/bashbug[Krew   
-[5B[1;36mbashbug[0m@                     [1B[7mbrew@                      [0m  [7A[0m[27m[24m[27C/usr/local/bin/brew[Ksondump
-[6B[1;36mbrew[0m@                        [1B[7mbsondump@                  [0m  [8A[0m[27m[24m[27C/usr/local/bin/bsondump[K[8Dcairo-sphinx
-[7B[1;36mbsondump[0m@                    [1B[7mcairo-sphinx@              [0m  [9A[0m[27m[24m[27C/usr/local/bin/cairo-sphinx[Ktrace 
-[8B[1;36mcairo-sphinx[0m@                [1B[7mcairo-trace@               [0m  [10A[0m[27m[24m[27C/usr/local/bin/cairo-trace[K[10Djpeg      
-[9B[1;36mcairo-trace[0m@                 [1B[7mcjpeg@                     [0m  [11A[0m[27m[24m[27C/usr/local/bin/cjpeg[Kode 
-[10B[1;36mcjpeg[0m@                       [1B[7mcode@                      [0m  [12A[0m[27m[24m[27C/usr/local/bin/code[Kmposer
-[11B[1;36mcode[0m@                        [1B[7mcomposer*                  [0m  [13A[0m[27m[24m[27C/usr/local/bin/composer[Kreate-next-app
-[12B[1;32mcomposer[0m*                    [1B[7mcreate-next-app@           [0m  [14A                  [1B[7mbash@                      [0m  [5A[0m[27m[24m[27C/usr/local/bin/bash[Kbug
-[4B[1;36mbash[0m@                        [1B[7mbashbug@                   [0m  [6A[0m[27m[24m[27C/usr/local/bin/bashbug[Krew   
-[5B[1;36mbashbug[0m@                     [1B[7mbrew@                      [0m  [7A[0m[27m[24m[27C/usr/local/bin/brew[Ksondump
-[6B[1;36mbrew[0m@                        [1B[7mbsondump@                  [0m  [8A[0m[27m[24m[27C/usr/local/bin/bsondump[K[8Dcairo-sphinx
-[7B[1;36mbsondump[0m@                    [1B[7mcairo-sphinx@              [0m  [9A[0m[27m[24m[27C/usr/local/bin/cairo-sphinx[Ktrace 
-[8B[1;36mcairo-sphinx[0m@                [1B[7mcairo-trace@               [0m  [10A[0m[27m[24m[27C/usr/local/bin/cairo-trace[K[10Djpeg      
-[9B[1;36mcairo-trace[0m@                 [1B[7mcjpeg@                     [0m  [11A[0m[27m[24m[27C/usr/local/bin/cjpeg[Kode 
-[10B[1;36mcjpeg[0m@                       [1B[7mcode@                      [0m  [12A[0m[27m[24m[27C/usr/local/bin/code[Kmposer
-[11B[1;36mcode[0m@                        [1B[7mcomposer*                  [0m  [13A[0m[27m[24m[27C/usr/local/bin/composer[Kreate-next-app
-[12B[1;32mcomposer[0m*                    [1B[7mcreate-next-app@           [0m  [14A[0m[27m[24m[27C/usr/local/bin/create-next-app[K[13Doco-0.6-config
-[13B[1;36mcreate-next-app[0m@             [1B[7mcroco-0.6-config@          [0m  [15A[0m[27m[24m[27C/usr/local/bin/croco-0.6-config[K[15Dsslint-0.6     
-[14B[1;36mcroco-0.6-config[0m@            [1B[7mcsslint-0.6@               [0m  [16A[0m[27m[24m[27C/usr/local/bin/csslint-0.6[K[10Dt_run     
-[15B[1;36mcsslint-0.6[0m@                 [1B[7mct_run@                    [0m  [17A[0m[27m[24m[27C/usr/local/bin/ct_run[Kdart  
-[16B[1;36mct_run[0m@                      [1Bure[0m@         [1;36mpython3.7-config[0m@          [K
-[1;36mcjpeg[0m@                       [1;36mhb-shape[0m@                    [1;36mpython3.7m[0m@                [K
-[1;36mcode[0m@                        [1;36mhb-subset[0m@                   [1;36mpython3.7m-config[0m@         [K
-[1;32mcomposer[0m*                    [1;36mhb-view[0m@                     [1;36mpythonw[0m@                   [K
-[1;36mcreate-next-app[0m@             [1;36midle[0m@                        [1;36mpythonw2[0m@                  [K
-[1;36mcroco-0.6-config[0m@            [1;36midle2[0m@                       [1;36mpythonw2.7[0m@                [K
-[1;36mcsslint-0.6[0m@                 [1;36midle2.7[0m@                     [1;36mpyvenv[0m@                    [K
-[1;36mct_run[0m@                      [1;36midle3[0m@                       [1;36mpyvenv-3.7[0m@                [K
-[1;36mdart[0m@                        [1;36midle3.7[0m@                     [1;36mraw2tiff[0m@                  [K
-[1;36mdart2aot[0m@                    [1;36midn2[0m@                        [1;36mrdjpgcom[0m@                  [K
-[J[1;36mdart2js[0m@                     [J[1;36mimportjs[0m@                    [J[1;36mreact-native[0m@              [J[K
-[7mdartanalyzer@              [0m  [J[1;36mimportjsd[0m@                   [J[1;36mredis-benchmark[0m@           [J[J[J[J[20A[0m[27m[24m[27C/usr/local/bin/dartanalyzer[Kotruntime
-[1;36m2to3-2.7[0m@                    [1;36mglib-mkenums[0m@                [1;36mpython2[0m@                   [K
-[1;36m2to3-3.7[0m@                    [1;36mgobject-query[0m@               [1;36mpython2-config[0m@            [K
-[1;36mbash[0m@                        [1;36mgr2fonttest[0m@                 [1;36mpython2.7[0m@                 [K
-[1;36mbashbug[0m@                     [1;36mgresource[0m@                   [1;36mpython2.7-config[0m@          [K
-[1;36mbrew[0m@                    6midle2[0m@                       [1;36mpythonw2.7[0m@                [K
-[1;36mcsslint-0.6[0m@                 [1;36midle2.7[0m@                     [1;36mpyvenv[0m@                    [K
-[1;36mct_run[0m@                      [1;36midle3[0m@                       [1;36mpyvenv-3.7[0m@                [K
-[1;36mdart[0m@                        [1;36midle3.7[0m@                     [1;36mraw2tiff[0m@                  [K
-[1;36mdart2aot[0m@                    [1;36midn2[0m@                        [1;36mrdjpgcom[0m@                  [K
-[J[1;36mdart2js[0m@                     [J[1;36mimportjs[0m@                    [J[1;36mreact-native[0m@              [J[K
-[7mdartanalyzer@              [0m  [J[1;36mimportjsd[0m@                   [J[1;36mredis-benchmark[0m@           [J[J[J[J[20A[0m[27m[24m[27C/usr/local/bin/dartanalyzer[Kotruntime
-[1;36m2to3-2.7[0m@                    [1;36mglib-mkenums[0m@                [1;36mpython2[0m@                   [K
-[1;36m2to3-3.7[0m@                    [1;36mgobject-query[0m@               [1;36mpython2-config[0m@            [K
-[1;36mbash[0m@                        [1;36mgr2fonttest[0m@                 [1;36mpython2.7[0m@                 [K
-[1;36mbashbug[0m@                     [1;36mgresource[0m@                   [1;36mpython2.7-config[0m@          [K
-[1;36mbrew[0m@                        [1;36mgsettings[0m@                   [1;36mpython3[0m@                   [K
-[1;36mbsondump[0m@                    [1;36mgtester[0m@                     [1;36mpython3-config[0m@            [K
-[1;36mcairo-sphinx[0m@                [1;36mgtester-report[0m@              [1;36mpython3.7[0m@                 [K
-[1;36mcairo-trace[0m@                 [1;36mhb-ot-shape-closure[0m@         [1;36mpython3.7-config[0m@          [K
-[1;36mcjpeg[0m@                       [1;36mhb-shape[0m@                    [1;36mpython3.7m[0m@                [K
-[1;36mcode[0m@                                        [1;36mgobject-query[0m@               [1;36mpython2-config[0m@            [K
-[1;36mbash[0m@                        [1;36mgr2fonttest[0m@                 [1;36mpython2.7[0m@                 [K
-[1;36mbashbug[0m@                     [1;36mgresource[0m@                   [1;36mpython2.7-config[0m@          [K
-[1;36mbrew[0m@                        [1;36mgsettings[0m@                   [1;36mpython3[0m@                   [K
-[1;36mbsondump[0m@                    [1;36mgtester[0m@                     [1;36mpython3-config[0m@            [K
-[1;36mcairo-sphinx[0m@                [1;36mgtester-report[0m@              [1;36mpython3.7[0m@                 [K
-[1;36mcairo-trace[0m@                 [1;36mhb-ot-shape-closure[0m@         [1;36mpython3.7-config[0m@          [K
-[1;36mcjpeg[0m@                       [1;36mhb-shape[0m@                    [1;36mpython3.7m[0m@                [K
-[1;36mcode[0m@                        [1;36mhb-subset[0m@                   [1;36mpython3.7m-config[0m@         [K
-[1;32mcomposer[0m*                    [1;36mhb-view[0m@                     [1;36mpythonw[0m@                   [K
-[1;36mcreate-next-app[0m@             [1;36midle[0m@                        [1;36mpythonw2[0m@                  [K
-[1;36mcroco-0.6-config[0m@            [1;36midle2[0m@                       [1;36mpythonw2.7[0m@                [K
-[1;36mcsslint-0.6[0m@                 [1;36midle2.7[0m@                     [1;36mpyvenv[0m@                    [K
-[1;36mct_run[0m@                      [1;36midle3[0m@                       [1;36mpyvenv-3.7[0m@                [K
-[1;36mdart[0m@                        [1;36midle3.7[0m@                     [1;36mraw2tiff[0m@                  [K
-[1;36mdart2aot[0m@                    [1;36midn2[0m@                        [1;36mrdjpgcom[0m@                  [K
-[1;36mdart2js[0m@                     [1;36mimportjs[0m@                    [1;36mreact-mcairo-sphinx[0m@                [1;36mgtester-report[0m@              [1;36mpython3.7[0m@                 [K
-[1;36mcairo-trace[0m@                 [1;36mhb-ot-shape-closure[0m@         [1;36mpython3.7-config[0m@          [K
-[1;36mcjpeg[0m@                       [1;36mhb-shape[0m@                    [1;36mpython3.7m[0m@                [K
-[1;36mcode[0m@                        [1;36mhb-subset[0m@                   [1;36mpython3.7m-config[0m@         [K
-[1;32mcomposer[0m*                    [1;36mhb-view[0m@                     [1;36mpythonw[0m@                   [K
-[1;36mcreate-next-app[0m@             [1;36midle[0m@                        [1;36mpythonw2[0m@                  [K
-[1;36mcroco-0.6-config[0m@            [1;36midle2[0m@                       [1;36mpythonw2.7[0m@                [K
-[1;36mcsslint-0.6[0m@                 [1;36midle2.7[0m@                     [1;36mpyvenv[0m@                    [K
-[1;36mct_run[0m@                      [1;36midle3[0m@                       [1;36mpyvenv-3.7[0m@                [K
-[1;36mdart[0m@                        [1;36midle3.7[0m@                     [1;36mraw2tiff[0m@                  [K
-[1;36mdart2aot[0m@                    [1;36midn2[0m@                        [1;36mrdjpgcom[0m@                  [K
-[1;36mdart2js[0m@                     [1;36mimportjs[0m@                    [1;36mreact-native[0m@              [K
-[1;36mdartanalyzer[0m@                [1;36mimportjsd[0m@                   [1;36mredis-benchmark[0m@           [K
-[J[1;36mdartaotruntime[0m@              [J[1;36minstall_compass[0m@             [J[1;36mredis-check-aof[0m@           [J[K
-[7mdartdevc@                  [0m  [J[1;36mjemalloc-config[0m@             [J[1;36mredis-check-rdb[0m@           [J[J[J[J[20A[0m[27m[24m[27C/usr/local/bin/dartdevc[Koc 
-[1;36mbash[0m@                        [1;36mgr2fonttest[0m@                 [1;36mpython2.7[0m@                 [K
-[1;36mbashbug@                [K
-[1;36mdart[0m@                        [1;36midle3.7[0m@                     [1;36mraw2tiff[0m@                  [K
-[1;36mdart2aot[0m@                    [1;36midn2[0m@                        [1;36mrdjpgcom[0m@                  [K
-[1;36mdart2js[0m@                     [1;36mimportjs[0m@                    [1;36mreact-native[0m@              [K
-[1;36mdartanalyzer[0m@                [1;36mimportjsd[0m@                   [1;36mredis-benchmark[0m@           [K
-[1;36mdartaotruntime[0m@              [1;36minstall_compass[0m@             [1;36mredis-check-aof[0m@           [K
-[J[1;36mdartdevc[0m@                    [J[1;36mjemalloc-config[0m@             [J[1;36mredis-check-rdb[0m@           [J[K
-[7mdartdoc@                   [0m  [J[1;36mjemalloc.sh[0m@                 [J[1;36mredis-cli[0m@                 [J[J[J[J[20A[0m[27m[24m[27C/usr/local/bin/dartdoc[Kfmt
-[1;36mbashbug[0m@                     [1;36mgresource[0m@                   [1;36mpython2.7-config[0m@          [K
-[1;36mbrew[0m@                        [1;36mgsettings[0m@                   [1;36mpython3[0m@                   [K
-[1;36mbsondump[0m@                    [1;36mgtester[0m@                     [1;36mpython3-config[0m@            [K
-[1;36mcairo-sphinx[0m@                [1;36mgtester-report[0m@              [1;36mpython3.7[0m@                 [K
-[1;36mcairo-trace[0m@                 [1;36mhb-ot-shape-closure[0m@         [1;36mpython3.7-config[0m@          [K
-[1;36mcjpeg[0m@                       [1;36mhb-shape[0m@                    [1;36mpython3.7m[0m@                [K
-[1;36mcode[0m@                        [1;36mhb-subset[0m@                   [1;36mpython3.7m-config[0m@         [K
-[1;32mcomposer[0m*                    [1;36mhb-view[0m@                     [1;36mpythonw[0m@                   [K
-[1;36mcreate-next-app[0m@             [1;36midle[0m@                        [1;36mpy;36mredis-check-aof[0m@           [K
-[J[1;36mdartdevc[0m@                    [J[1;36mjemalloc-config[0m@             [J[1;36mredis-check-rdb[0m@           [J[K
-[7mdartdoc@                   [0m  [J[1;36mjemalloc.sh[0m@                 [J[1;36mredis-cli[0m@                 [J[J[J[J[20A[0m[27m[24m[27C/usr/local/bin/dartdoc[Kfmt
-[1;36mbashbug[0m@                     [1;36mgresource[0m@                   [1;36mpython2.7-config[0m@          [K
-[1;36mbrew[0m@                        [1;36mgsettings[0m@                   [1;36mpython3[0m@                   [K
-[1;36mbsondump[0m@                    [1;36mgtester[0m@                     [1;36mpython3-config[0m@            [K
-[1;36mcairo-sphinx[0m@                [1;36mgtester-report[0m@              [1;36mpython3.7[0m@                 [K
-[1;36mcairo-trace[0m@                 [1;36mhb-ot-shape-closure[0m@         [1;36mpython3.7-config[0m@          [K
-[1;36mcjpeg[0m@                       [1;36mhb-shape[0m@                    [1;36mpython3.7m[0m@                [K
-[1;36mcode[0m@                        [1;36mhb-subset[0m@                   [1;36mpython3.7m-config[0m@         [K
-[1;32mcomposer[0m*                    [1;36mhb-view[0m@                     [1;36mpythonw[0m@                   [K
-[1;36mcreate-next-app[0m@             [1;36midle[0m@                        [1;36mpythonw2[0m@                  [K
-[1;36mcroco-0.6-config[0m@            [1;36midle2[0m@                       [1;36mpythonw2.7[0m@                [K
-[1;36mcsslint-0.6[0m@                 [1;36midle2.7[0m@                     [1;36mpyvenv[0m@                    [K
-[1;36mct_run[0m@                      [1;36midle3[0m@                       [1;36mpyvenv-3.7[0m@                [K
-[1;36mdart[0m@                        [1;36midle3.7[0m@                     [1;36mraw2tiff[0m@                  [K
-[1;36mdart2aot[0m@                    [1;36midn2[0m@                        [1;36mrdjpgcn3.7m[0m@                [K
-[1;36mcode[0m@                        [1;36mhb-subset[0m@                   [1;36mpython3.7m-config[0m@         [K
-[1;32mcomposer[0m*                    [1;36mhb-view[0m@                     [1;36mpythonw[0m@                   [K
-[1;36mcreate-next-app[0m@             [1;36midle[0m@                        [1;36mpythonw2[0m@                  [K
-[1;36mcroco-0.6-config[0m@            [1;36midle2[0m@                       [1;36mpythonw2.7[0m@                [K
-[1;36mcsslint-0.6[0m@                 [1;36midle2.7[0m@                     [1;36mpyvenv[0m@                    [K
-[1;36mct_run[0m@                      [1;36midle3[0m@                       [1;36mpyvenv-3.7[0m@                [K
-[1;36mdart[0m@                        [1;36midle3.7[0m@                     [1;36mraw2tiff[0m@                  [K
-[1;36mdart2aot[0m@                    [1;36midn2[0m@                        [1;36mrdjpgcom[0m@                  [K
-[1;36mdart2js[0m@                     [1;36mimportjs[0m@                    [1;36mreact-native[0m@              [K
-[1;36mdartanalyzer[0m@                [1;36mimportjsd[0m@                   [1;36mredis-benchmark[0m@           [K
-[1;36mdartaotruntime[0m@              [1;36minstall_compass[0m@             [1;36mredis-check-aof[0m@           [K
-[1;36mdartdevc[0m@                    [1;36mjemalloc-config[0m@             [1;36mredis-check-rdb[0m@           [K
-[1;36mdartdoc[0m@                     [1;36mjemalloc.sh[0m@                 [1;36mredis-cli[0m@                 [K
-[J[1;36mdartfmt[0m@                     [J[1;36mjeprof[0m@                      [J[1;36mredis-sentinel[0m@            [J[K
-[7mdialyzer@                  [0m  [J[1;36mjpegtran[0m@                    [J[1;36mredis-server[0m@              [J[J[J[J[20A[0m[27m[24m[27C/usr/local/bin/dialyzer[Kjpeg   
-[1;36mbsondump[0m@                    [1;36mgtester[0m@               [1;36mpyvenv[0m@                    [K
-[1;36mct_run[0m@                      [1;36midle3[0m@                       [1;36mpyvenv-3.7[0m@                [K
-[1;36mdart[0m@                        [1;36midle3.7[0m@                     [1;36mraw2tiff[0m@                  [K
-[1;36mdart2aot[0m@                    [1;36midn2[0m@                        [1;36mrdjpgcom[0m@                  [K
-[1;36mdart2js[0m@                     [1;36mimportjs[0m@                    [1;36mreact-native[0m@              [K
-[1;36mdartanalyzer[0m@                [1;36mimportjsd[0m@                   [1;36mredis-benchmark[0m@           [K
-[1;36mdartaotruntime[0m@              [1;36minstall_compass[0m@             [1;36mredis-check-aof[0m@           [K
-[1;36mdartdevc[0m@                    [1;36mjemalloc-config[0m@             [1;36mredis-check-rdb[0m@           [K
-[1;36mdartdoc[0m@                     [1;36mjemalloc.sh[0m@                 [1;36mredis-cli[0m@                 [K
-[J[1;36mdartfmt[0m@                     [J[1;36mjeprof[0m@                      [J[1;36mredis-sentinel[0m@            [J[K
-[7mdialyzer@                  [0m  [J[1;36mjpegtran[0m@                    [J[1;36mredis-server[0m@              [J[J[J[J[20A[0m[27m[24m[27C/usr/local/bin/dialyzer[Kjpeg   
-[1;36mbsondump[0m@                    [1;36mgtester[0m@                     [1;36mpython3-config[0m@            [K
-[1;36mcairo-sphinx[0m@                [1;36mgtester-report[0m@              [1;36mpython3.7[0m@                 [K
-[1;36mcairo-trace[0m@                 [1;36mhb-ot-shape-closure[0m@         [1;36mpython3.7-config[0m@          [K
-[1;36mcjpeg[0m@                       [1;36mhb-shape[0m@                    [1;36mpython3.7m[0m@                [K
-[1;36mcode[0m@                        [1;36mhb-subset[0m@                   [1;36mpython3.7m-config[0m@         [K
-[1;32mcomposer[0m*                    [1;36mhb-view[0m@                 [1;36mjeprof[0m@                      [1;36mredis-sentinel[0m@            [K
-[J[1;36mdialyzer[0m@                    [J[1;36mjpegtran[0m@                    [J[1;36mredis-server[0m@              [J[K
-[7mdjpeg@                     [0m  [J[1;36mjq[0m@                          [J[1;36mros[0m@                       [J[J[J[J[20A[0m[27m[24m[27C/usr/local/bin/djpeg[Keasy_install
-[1;36mcairo-sphinx[0m@                [1;36mgtester-report[0m@              [1;36mpython3.7[0m@                 [K
-[1;36mcairo-trace[0m@                 [1;36mhb-ot-shape-closure[0m@         [1;36mpython3.7-config[0m@          [K
-[1;36mcjpeg[0m@                       [1;36mhb-shape[0m@                    [1;36mpython3.7m[0m@                [K
-[1;36mcode[0m@                        [1;36mhb-subset[0m@                   [1;36mpython3.7m-config[0m@         [K
-[1;32mcomposer[0m*                    [1;36mhb-view[0m@                     [1;36mpythonw[0m@                   [K
-[1;36mcreate-next-app[0m@             [1;36midle[0m@                        [1;36mpythonw2[0m@                  [K
-[1;36mcroco-0.6-config[0m@            [1;36midle2[0m@                       [1;36mpythonw2.7[0m@                [K
-[1;36mcsslint-0.6[0m@                 [1;36midle2.7[0m@                     [1;36mpyvenv[0m@                    [K
-[1;36mct_run[0m@                      [1;36midle3[0m@                       [1;36mpyvenv-3.7[0m@                [K
-[1;36mdart[0m@                        [1;36midle3.7[0m@                     [1;36mraw2tiff[0m@                  [K
-[1;36mdart2aot[0m@                    [1;36midn2[0m@                        [1;36mrdjpgcom[0m@                  [K
-[1;36mdart2js[0m@                     [1;36mimportjs[0m@                    [1;36mreact-native[0m@              [K
-[1;36mdartanalyzer[0m@                [1;36mimportjsd[0m@                   [1;36mredis-benchmark[0m@           [K
-[1;36mdartaotrt-shape-closure[0m@         [1;36mpython3.7-config[0m@          [K
-[1;36mcjpeg[0m@                       [1;36mhb-shape[0m@                    [1;36mpython3.7m[0m@                [K
-[1;36mcode[0m@                        [1;36mhb-subset[0m@                   [1;36mpython3.7m-config[0m@         [K
-[1;32mcomposer[0m*                    [1;36mhb-view[0m@                     [1;36mpythonw[0m@                   [K
-[1;36mcreate-next-app[0m@             [1;36midle[0m@                        [1;36mpythonw2[0m@                  [K
-[1;36mcroco-0.6-config[0m@            [1;36midle2[0m@                       [1;36mpythonw2.7[0m@                [K
-[1;36mcsslint-0.6[0m@                 [1;36midle2.7[0m@                     [1;36mpyvenv[0m@                    [K
-[1;36mct_run[0m@                      [1;36midle3[0m@                       [1;36mpyvenv-3.7[0m@                [K
-[1;36mdart[0m@                        [1;36midle3.7[0m@                     [1;36mraw2tiff[0m@                  [K
-[1;36mdart2aot[0m@                    [1;36midn2[0m@                        [1;36mrdjpgcom[0m@                  [K
-[1;36mdart2js[0m@                     [1;36mimportjs[0m@                    [1;36mreact-native[0m@              [K
-[1;36mdartanalyzer[0m@                [1;36mimportjsd[0m@                   [1;36mredis-benchmark[0m@           [K
-[1;36mdartaotruntime[0m@              [1;36minstall_compass[0m@             [1;36mredis-check-aof[0m@           [K
-[1;36mdartdevc[0m@                    [1;36mjemalloc-config[0m@             [1;36mredis-check-rdb[0m@           [K
-[1;36mdartdoc[0m@                     [1;36mjemalloc.sh[0m@                 [1;36mredis-cli[0m@                 [K
-[1;36mdartfmt[0m@                     [1;36mjeprof[0m@                      [1;36mredis-sentinel[0m@            [K
-[1;36mdialyzer[0m@                    [1;36mjpegtran[0m@                    [1;36mredis-server[0m@              [K
-[J[1;36mdjpeg[0m                  [1;36midn2[0m@                        [1;36mrdjpgcom[0m@                  [K
-[1;36mdart2js[0m@                     [1;36mimportjs[0m@                    [1;36mreact-native[0m@              [K
-[1;36mdartanalyzer[0m@                [1;36mimportjsd[0m@                   [1;36mredis-benchmark[0m@           [K
-[1;36mdartaotruntime[0m@              [1;36minstall_compass[0m@             [1;36mredis-check-aof[0m@           [K
-[1;36mdartdevc[0m@                    [1;36mjemalloc-config[0m@             [1;36mredis-check-rdb[0m@           [K
-[1;36mdartdoc[0m@                     [1;36mjemalloc.sh[0m@                 [1;36mredis-cli[0m@                 [K
-[1;36mdartfmt[0m@                     [1;36mjeprof[0m@                      [1;36mredis-sentinel[0m@            [K
-[1;36mdialyzer[0m@                    [1;36mjpegtran[0m@                    [1;36mredis-server[0m@              [K
-[1;36mdjpeg[0m@                       [1;36mjq[0m@                          [1;36mros[0m@                       [K
-[J[1;36measy_install[0m@                [J[1;36mlibpng-config[0m@               [J[1;36mrsvg-convert[0m@              [J[K
-[7measy_install-2.7@          [0m  [J[1;36mlibpng16-config[0m@             [J[1;36mrun_erl[0m@                   [J[J[J[J[20A[0m[27m[24m[27C/usr/local/bin/easy_install-2.7[K3[2C
-[1;36mcjpeg[0m@                       [1;36mhb-shape[0m@                    [1;36mpython3.7m[0m@                [K
-[1;36mcode[0m@                        [1;36mhb-subset[0m@                   [1;36mpython3.7m-config[0m@         [K
-[1;32mcomposer[0m*                    [1;36mhb-view[0m@                     [1;36mpythonw[0m@                   [K
-[1;36mcreate-next-app[0m@             [1;36midle[0m@                        [1;36mpythonw2[0m@                  [K
-[1;36mcroco-0.6-config[0m@            [1;36midle2[0m@                       [1;36mpythonw2.7[0m@                [K36mdartdoc[0m@                     [1;36mjemalloc.sh[0m@                 [1;36mredis-cli[0m@                 [K
-[1;36mdartfmt[0m@                     [1;36mjeprof[0m@                      [1;36mredis-sentinel[0m@            [K
-[1;36mdialyzer[0m@                    [1;36mjpegtran[0m@                    [1;36mredis-server[0m@              [K
-[1;36mdjpeg[0m@                       [1;36mjq[0m@                          [1;36mros[0m@                       [K
-[J[1;36measy_install[0m@                [J[1;36mlibpng-config[0m@               [J[1;36mrsvg-convert[0m@              [J[K
-[7measy_install-2.7@          [0m  [J[1;36mlibpng16-config[0m@             [J[1;36mrun_erl[0m@                   [J[J[J[J[20A[0m[27m[24m[27C/usr/local/bin/easy_install-2.7[K3[2C
-[1;36mcjpeg[0m@                       [1;36mhb-shape[0m@                    [1;36mpython3.7m[0m@                [K
-[1;36mcode[0m@                        [1;36mhb-subset[0m@                   [1;36mpython3.7m-config[0m@         [K
-[1;32mcomposer[0m*                    [1;36mhb-view[0m@                     [1;36mpythonw[0m@                   [K
-[1;36mcreate-next-app[0m@             [1;36midle[0m@                        [1;36mpythonw2[0m@                  [K
-[1;36mcroco-0.6-config[0m@            [1;36midle2[0m@                       [1;36mpythonw2.7[0m@                [K
-[1;36mcsslint-0.6[0m@                 [1;36midle2.7[0m@                     [1;36mpyvenv[0m@                    [K
-[1;36mct_run[0m@                      [1;36midle3[0m@                       [1;36mpyvenv-3.7[0m@                [K
-[1;36mdart[0m@                        [1;36midle3.7[0m@                     [1;36mraw2tiff[0m@                  [K
-[1;36mdart2aot[0m@                    [1;36midn2[0m@                        [1;36mrdjpgcom[0m@                  [K
-[1;36mdart2js[0m@                     [1;36mimportjs[0m@                    [1;36mreact-native[0m@              [K
-[1[0m@         [K
-[1;32mcomposer[0m*                    [1;36mhb-view[0m@                     [1;36mpythonw[0m@                   [K
-[1;36mcreate-next-app[0m@             [1;36midle[0m@                        [1;36mpythonw2[0m@                  [K
-[1;36mcroco-0.6-config[0m@            [1;36midle2[0m@                       [1;36mpythonw2.7[0m@                [K
-[1;36mcsslint-0.6[0m@                 [1;36midle2.7[0m@                     [1;36mpyvenv[0m@                    [K
-[1;36mct_run[0m@                      [1;36midle3[0m@                       [1;36mpyvenv-3.7[0m@                [K
-[1;36mdart[0m@                        [1;36midle3.7[0m@                     [1;36mraw2tiff[0m@                  [K
-[1;36mdart2aot[0m@                    [1;36midn2[0m@                        [1;36mrdjpgcom[0m@                  [K
-[1;36mdart2js[0m@                     [1;36mimportjs[0m@                    [1;36mreact-native[0m@              [K
-[1;36mdartanalyzer[0m@                [1;36mimportjsd[0m@                   [1;36mredis-benchmark[0m@           [K
-[1;36mdartaotruntime[0m@              [1;36minstall_compass[0m@             [1;36mredis-check-aof[0m@           [K
-[1;36mdartdevc[0m@                    [1;36mjemalloc-config[0m@             [1;36mredis-check-rdb[0m@           [K
-[1;36mdartdoc[0m@                     [1;36mjemalloc.sh[0m@                 [1;36mredis-cli[0m@                 [K
-[1;36mdartfmt[0m@                     [1;36mjeprof[0m@                      [1;36mredis-sentinel[0m@            [K
-[1;36mdialyzer[0m@                    [1;36mjpegtran[0m@                    [1;36mredis-server[0m@              [K
-[1;36mdjpeg[0m@                       [1;36mjq[0m@                          [1;36mros[0m@                       [K
-[1;36measy_install[0m@                [1;36mlibpng-config[0m@               [1;36mrsvg-convert[0m@              [K
-[1;36measy_install-2.7[0m@            [1;36mlibmpyvenv-3.7[0m@                [K
-[1;36mdart[0m@                        [1;36midle3.7[0m@                     [1;36mraw2tiff[0m@                  [K
-[1;36mdart2aot[0m@                    [1;36midn2[0m@                        [1;36mrdjpgcom[0m@                  [K
-[1;36mdart2js[0m@                     [1;36mimportjs[0m@                    [1;36mreact-native[0m@              [K
-[1;36mdartanalyzer[0m@                [1;36mimportjsd[0m@                   [1;36mredis-benchmark[0m@           [K
-[1;36mdartaotruntime[0m@              [1;36minstall_compass[0m@             [1;36mredis-check-aof[0m@           [K
-[1;36mdartdevc[0m@                    [1;36mjemalloc-config[0m@             [1;36mredis-check-rdb[0m@           [K
-[1;36mdartdoc[0m@                     [1;36mjemalloc.sh[0m@                 [1;36mredis-cli[0m@                 [K
-[1;36mdartfmt[0m@                     [1;36mjeprof[0m@                      [1;36mredis-sentinel[0m@            [K
-[1;36mdialyzer[0m@                    [1;36mjpegtran[0m@                    [1;36mredis-server[0m@              [K
-[1;36mdjpeg[0m@                       [1;36mjq[0m@                          [1;36mros[0m@                       [K
-[1;36measy_install[0m@                [1;36mlibpng-config[0m@               [1;36mrsvg-convert[0m@              [K
-[1;36measy_install-2.7[0m@            [1;36mlibpng16-config[0m@             [1;36mrun_erl[0m@                   [K
-[J[1;36measy_install-3.7[0m@            [J[1;36mluajit[0m@                      [J[1;32msandbox-pod[0m*               [J[K
-[7melm*                       [0m  [J[1;36mluajit-2.0.5[0m@                [J[1;36msbcl[0m@                      [J[J[J[J[20A[0m[27m[24m[27C/usr/local/bin/elm[Kpmd
-[1;32mcomposer[0m*                    [1;36mhb-view[0m@                     [1;36mpythonw[0m@                   [K
-[1;36mcreate-next-app[0m@             [1;36midle[0m@                        [1;36mpythonw2[0m@                [1;36mredis-server[0m@              [K
-[1;36mdjpeg[0m@                       [1;36mjq[0m@                          [1;36mros[0m@                       [K
-[1;36measy_install[0m@                [1;36mlibpng-config[0m@               [1;36mrsvg-convert[0m@              [K
-[1;36measy_install-2.7[0m@            [1;36mlibpng16-config[0m@             [1;36mrun_erl[0m@                   [K
-[1;36measy_install-3.7[0m@            [1;36mluajit[0m@                      [1;32msandbox-pod[0m*               [K
-[J[1;32melm[0m*                         [J[1;36mluajit-2.0.5[0m@                [J[1;36msbcl[0m@                      [J[K
-[7mepmd@                      [0m  [J[1;36mlzcat[0m@                       [J[1;36mscheme[0m@                    [J[J[J[J[20A[0m[27m[24m[27C/usr/local/bin/epmd[Krl 
-[1;36mcreate-next-app[0m@             [1;36midle[0m@                        [1;36mpythonw2[0m@                  [K
-[1;36mcroco-0.6-config[0m@            [1;36midle2[0m@                       [1;36mpythonw2.7[0m@                [K
-[1;36mcsslint-0.6[0m@                 [1;36midle2.7[0m@                     [1;36mpyvenv[0m@                    [K
-[1;36mct_run[0m@                      [1;36midle3[0m@                       [1;36mpyvenv-3.7[0m@                [K
-[1;36mdart[0m@                        [1;36midle3.7[0m@                     [1;36mraw2tiff[0m@                  [K
-[1;36mdart2aot[0m@                    [1;36midn2[0m@                        [1;36mrdjpgcom[0m@                  [K
-[1;36mdart2js[0m@                     [1;36mimportjs[0m@                    [1;36mreact-native[0m@              [K
-[1;36mdartanalyzer[0m@                [1;36mimportjsd[0m@                   [1;36mredis-benchmark[0m@           [K
-[1;36mdartaotruntime[0m@              [1;36minstall_compass[0m@             [1;36mredis-check-aof[0m@           [K
-[1;36mdartdevc[0m@                    [1;36mjemalloc[1;36mluajit-2.0.5[0m@                [J[1;36msbcl[0m@                      [J[K
-[7mepmd@                      [0m  [J[1;36mlzcat[0m@                       [J[1;36mscheme[0m@                    [J[J[J[J[20A[0m[27m[24m[27C/usr/local/bin/epmd[Krl 
-[1;36mcreate-next-app[0m@             [1;36midle[0m@                        [1;36mpythonw2[0m@                  [K
-[1;36mcroco-0.6-config[0m@            [1;36midle2[0m@                       [1;36mpythonw2.7[0m@                [K
-[1;36mcsslint-0.6[0m@                 [1;36midle2.7[0m@                     [1;36mpyvenv[0m@                    [K
-[1;36mct_run[0m@                      [1;36midle3[0m@                       [1;36mpyvenv-3.7[0m@                [K
-[1;36mdart[0m@                        [1;36midle3.7[0m@                     [1;36mraw2tiff[0m@                  [K
-[1;36mdart2aot[0m@                    [1;36midn2[0m@                        [1;36mrdjpgcom[0m@                  [K
-[1;36mdart2js[0m@                     [1;36mimportjs[0m@                    [1;36mreact-native[0m@              [K
-[1;36mdartanalyzer[0m@                [1;36mimportjsd[0m@                   [1;36mredis-benchmark[0m@           [K
-[1;36mdartaotruntime[0m@              [1;36minstall_compass[0m@             [1;36mredis-check-aof[0m@           [K
-[1;36mdartdevc[0m@                    [1;36mjemalloc-config[0m@             [1;36mredis-check-rdb[0m@           [K
-[1;36mdartdoc[0m@                     [1;36mjemalloc.sh[0m@                 [1;36mredis-cli[0m@                 [K
-[1;36mdartfmt[0m@                     [1;36mjeprof[0m@                      [1;36mredis-sentinel[0m@            [K
-[1;36mdialyzer[0m@                    [1;36mjpegtran[0m@                    [1;36mredis-server[0m@              [K
-[1;36mdjpeg[0m@                       [1;36mjq[0m@                          [1;36mros[0m@                       [K
-[1;36measy_install[0m@                [1;36mlibpng-confi      [1;36mreact-native[0m@              [K
-[1;36mdartanalyzer[0m@                [1;36mimportjsd[0m@                   [1;36mredis-benchmark[0m@           [K
-[1;36mdartaotruntime[0m@              [1;36minstall_compass[0m@             [1;36mredis-check-aof[0m@           [K
-[1;36mdartdevc[0m@                    [1;36mjemalloc-config[0m@             [1;36mredis-check-rdb[0m@           [K
-[1;36mdartdoc[0m@                     [1;36mjemalloc.sh[0m@                 [1;36mredis-cli[0m@                 [K
-[1;36mdartfmt[0m@                     [1;36mjeprof[0m@                      [1;36mredis-sentinel[0m@            [K
-[1;36mdialyzer[0m@                    [1;36mjpegtran[0m@                    [1;36mredis-server[0m@              [K
-[1;36mdjpeg[0m@                       [1;36mjq[0m@                          [1;36mros[0m@                       [K
-[1;36measy_install[0m@                [1;36mlibpng-config[0m@               [1;36mrsvg-convert[0m@              [K
-[1;36measy_install-2.7[0m@            [1;36mlibpng16-config[0m@             [1;36mrun_erl[0m@                   [K
-[1;36measy_install-3.7[0m@            [1;36mluajit[0m@                      [1;32msandbox-pod[0m*               [K
-[1;32melm[0m*                         [1;36mluajit-2.0.5[0m@                [1;36msbcl[0m@                      [K
-[1;36mepmd[0m@                        [1;36mlzcat[0m@                       [1;36mscheme[0m@                    [K
-[J[1;36merl[0m@                         [J[1;36mlzcmp[0m@                       [J[1;36msmtpd.py[0m@                  [J[K
-[7merlc@                      [0m  [J[1;36mlzdiff[0m@                      [J[1;36msmtpd2.7.py[0m@               [J[J[J[J[20A[0m[27m[24m[27C/usr/local/bin/erlc[K
-[J[A[46C[1m [0m[0m     rk_upload_node[?1l>[?2004l
-[J]2;/usr/local/bin/rk_upload_node]1;/usr/local/bin/rk_upload_nodezsh: too many levels of symbolic links: /usr/local/bin/rk_upload_node
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h/usr/local/bin/rk_upload_node[29Dsudo ln -s [4P[14C /usr/local/bin/rk_upload_node[?2004l
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hrrm /usl r[1m/[0m[0m/local[1m/[0m[0m/bin[1m/[0m[0m/r
-[1;36mraw2tiff[0m@         [1;36mredis-check-aof[0m@  [1;36mredis-server[0m@     [1;36mrun_erl[0m@        
-[1;36mrdjpgcom[0m@         [1;36mredis-check-rdb[0m@  [1;36mrk_upload_node[0m@                   
-[1;36mreact-native[0m@     [1;36mredis-cli[0m@        [1;36mros[0m@                              
-[J[1;36mredis-benchmark[0m@  [J[1;36mredis-sentinel[0m@   [J[1;36mrsvg-convert[0m@     [J                [4A[0m[27m[24m[27Crm /usr/local/bin/r[Kk_upload_node[?1l>[?2004l
-[J]2;rm /usr/local/bin/rk_upload_node]1;rm[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hrm /usr/local/bin/rk_upload_node[32D[3P[29C   [29Drm /usr/local/bin/rk_upload_node[32D[3P[29C   [29Dsudo ln -s [4P[14C /usr/local/bin/rk_upload_node[55D[55C[29P[15C /usr/local/bin/rk_upload_node[44Du[29P[14C /usr/local/bin/rk_upload_node[44Ds[29P[14C /usr/local/bin/rk_upload_node[44D[1C[29P[14C /usr/local/bin/rk_upload_node[44D[29P[15C /usr/local/bin/rk_upload_node[44Dl[29P[14C /usr/local/bin/rk_upload_node [K[A[44Co[29P[14C /usr/local/bin/rk_upload_node[A[44Cc[29P[13Ce /usr/local/bin/rk_upload_node[A[44Ca[29P[12Cde /usr/local/bin/rk_upload_node[A[44Cl[29P[11Code /usr/local/bin/rk_upload_node[A[44C[29P[11Cnode /usr/local/bin/rk_upload_node[A[44Cb[29P[9C_node /usr/local/bin/rk_upload_node[A[44Cirk_upload_node /usr/local/bin/rk_upload_node[A[44Cnrk_upload_node /usr/local/bin/rk_upload_node[A[44C[1C[1C[1C/rk_upload_node /usr/local/bin/rk_upload_node[A[44C[P[35Cload_node [A[43C[P[36Coad_node [A[43C[P[37Cad_node [A[43C[P[38Cd_node [A[43C[P[39C_node [A[43C[P[40Cnode [A[43C[P[41Code [A[43C[P[42Cde [A[43C[P[43Ce [K[A[43C[P[44C[K[1B[K[A[43C[P[44C [45D[P[43C [45D[P[44C [45D[P[44C [45D[P[44C [45D~[29P[14C /usr/local/bin/rk_upload_node[44D[29P[15C /usr/local/bin/rk_upload_node[44DP[29P[14C /usr/local/bin/rk_upload_node[44D[1C[29P[14C /usr/local/bin/rk_upload_node[44Di[29P[14C /usr/local/bin/rk_upload_node[44D[P[44C [45Do[29P[14C /usr/local/bin/rk_upload_node[44Dj[29P[14C /usr/local/bin/rk_upload_node [K[A[44Ce[29P[14C /usr/local/bin/rk_upload_node[A[44Cc[29P[13Ce /usr/local/bin/rk_upload_node[A[44Ct[29P[12Cde /usr/local/bin/rk_upload_node[A[44Cs[29P[11Code /usr/local/bin/rk_upload_node[A[44C[29P[11Cnode /usr/local/bin/rk_upload_node[A[44C[1C[29P[9C_node /usr/local/bin/rk_upload_node[A[44Cirk_upload_node /usr/local/bin/rk_upload_node[A[44Ckrk_upload_node /usr/local/bin/rk_upload_node[A[44Cirk_upload_node /usr/local/bin/rk_upload_node[A[44Cmrk_upload_node /usr/local/bin/rk_upload_node[A[44Cark_upload_node /usr/local/bin/rk_upload_node[A[44C[1Crk_upload_node /usr/local/bin/rk_upload_node[A[44Curk_upload_node /usr/local/bin/rk_upload_node[A[44C/rk_upload_node /usr/local/bin/rk_upload_node[A[44C[?1l>[?2004l[1B
-]2;sudo ln -s ~/Projects/rikimaru/rk_upload_node /usr/local/bin/rk_upload_node]1;ln[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hrrk
-[0mSplitForks        genbrk            redis-benchmark                   
-[J_git_worktree     [Jnetworksetup      [Jwork_in_progress  [J                [A[A[0m[27m[24m[27Crk[Kr  
-[J[A[27Csudo ln -s ~/Projects/rikimaru/rk_upload_node /usr/local/bin/rk_upload_node[K[A[13Crm[43P[16Crk_upload_node[K[1B[K[A[59C[32D[3P[29C   [?1l>[?2004l[1B[J]2;/usr/local/bin/rk_upload_node]1;/usr/local/bin/rk_upload_nodessh: connect to host 127.0.0.1 port 22: Connection refused
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hssource ~/. .z
-[0m.zcompdump-muhammad’s\ MacBook\ Air-5.3  .zsh_history                           
-[1;31m.zoomus[0m/                                 .zshrc                                 
-[J.zprofile                                [J.zshrc.pre-oh-my-zsh                   [J[3A[0m[27m[24m[27Csource ~/.z[Ks
-[J[A[39Ch
-[J[J[0m.zsh_history          [J.zshrc                [J.zshrc.pre-oh-my-zsh[J[A[0m[27m[24m[27Csource ~/.zsh[K_history
-[J[7m.zsh_history        [0m  [J.zshrc                [J.zshrc.pre-oh-my-zsh[J[A[0m[27m[24m[27Csource ~/.zsh_history[K
-[7m.zsh_history        [0m  [7m.zsh_history        [0m  [A[0m[27m[24m[27Csource ~/.zsh_history[K[8Drc      
-[22C[7m.zshrc              [0m  .zsh_history          [A[0m[27m[24m[27Csource ~/.zshrc[K
-[J[A[42C[1m [0m[0m [?1l>[?2004l
-[J]2;source ~/.zshrc]1;sourceAgent pid 48084
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hrrk_upload_node[1m [0m[0m 
-[J[0mlog              [J[1;32mrk_upload_node[0m*  [Jssh-session.log  [Jtrycatch.sh      [Jtypescript     [J[A[0m[27m[24m[27Crk_upload_node[K[1C[?1l>[?2004l
-[J]2;rk_upload_node]1;rk_upload_node]2;rk_upload_node]1;rk_upload_nodessh: connect to host 127.0.0.1 port 22: Connection refused
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hrrk_upload_node[1m [0m[0m -h 12                r  ggst[?1l>[?2004l
-]2;git status]1;gst]2;git status]1;gstOn branch master
-Changes not staged for commit:
-  (use "git add/rm <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	[31mdeleted:    builder.sh[m
-	[31mmodified:   log[m
-	[31mmodified:   typescript[m
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	[31mrk_upload_node[m
-	[31mssh-session.log[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hgga .[?1l>[?2004l
-]2;git add .]1;ga]2;git add .]1;ga[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggcam "done"[?1l>[?2004l
-]2;git commit -a -m "done"]1;gcam]2;git commit -a -m "done"]1;gcam[master c468c05] done
- 4 files changed, 1209 insertions(+), 33 deletions(-)
- rename builder.sh => rk_upload_node (87%)
- create mode 100644 ssh-session.log
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hgggpush[?1l>[?2004l
-]2;git push origin "$(git_current_branch)"]1;ggpush]2;git push origin "$(git_current_branch)"]1;ggpushEnumerating objects: 9, done.
-Counting objects:  11% (1/9)Counting objects:  22% (2/9)Counting objects:  33% (3/9)Counting objects:  44% (4/9)Counting objects:  55% (5/9)Counting objects:  66% (6/9)Counting objects:  77% (7/9)Counting objects:  88% (8/9)Counting objects: 100% (9/9)Counting objects: 100% (9/9), done.
-Delta compression using up to 4 threads
-Compressing objects:  20% (1/5)Compressing objects:  40% (2/5)Compressing objects:  60% (3/5)Compressing objects:  80% (4/5)Compressing objects: 100% (5/5)Compressing objects: 100% (5/5), done.
-Writing objects:  16% (1/6)Writing objects:  33% (2/6)Writing objects:  50% (3/6)Writing objects:  66% (4/6)Writing objects:  83% (5/6)Writing objects: 100% (6/6)Writing objects: 100% (6/6), 14.10 KiB | 2.82 MiB/s, done.
-Total 6 (delta 0), reused 0 (delta 0)
-To github.com:hanipcode/rikimaru.git
-   93bb35e..c468c05  master -> master
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls]2;ls -G]1;lsbuilder.sh      [31mrk_upload_node[39;49m[0m  trycatch.sh
-log             ssh-session.log typescript
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hsshs sudo ln[1m [0m[0m -s ~/Projects/rikimaru/rk_upload_node /usr/local/bin/rk_upload_node[K[A[87C[1B[51D[A[87C[P[16Crk[P[12C [A[57C[P[17Ck_[P[11C [A[57C[P[18C_u[P[10C [A[57C[P[19Cup[P[9C [A[57C[P[20Cpload_node [A[57C[P[21Cload_node [A[57C[P[22Coad_node [A[57C[P[23Cad_node [A[57C[P[24Cd_node [A[57C[P[25C_node [A[57C[P[26Cnode [A[57C[P[27Code [A[57C[P[28Cde [A[57C[P[29Ce [K[A[57C[P[30C[K[1B[K[A[57C[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D. /usr/local/bin/rk_upload_node[30D/ /usr/local/bin/rk_upload_node[30Dt /usr/local/bin/rk_upload_node[30Dr /usr/local/bin/rk_upload_node[30Dycatch.sh[1m [0m /usr/local/bin/rk_upload_node[30D[P[30C [30D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1Ce e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e se e $e$HeOeMeEe[?1l>[?2004l[1B]2;$HOMEe]1;$HOMEe]2;$HOMEe]1;$HOMEe[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004heecho $HOME[?1l>[?2004l
-]2;echo $HOME]1;echo]2;echo $HOME]1;echo/Users/hanif
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hecho $HOME[10D$HOMEe     [?1l>[?2004l
-]2;$HOME]1;$HOME]2;$HOME]1;$HOME[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~]1;~]2;hanif@muhammads-MacBook-Air: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls]2;ls -G]1;ls[1m[36mAndroidStudioProjects[39;49m[0m [1m[36mDevApp[39;49m[0m                [1m[36mMusic[39;49m[0m                 [1m[36mSites[39;49m[0m
-[1m[36mApplications[39;49m[0m          [1m[36mDocuments[39;49m[0m             [1m[36mPictures[39;49m[0m              [1m[36mgo[39;49m[0m
-[1m[36mCreative Cloud Files[39;49m[0m  [1m[36mDownloads[39;49m[0m             [1m[36mPostman[39;49m[0m               [1m[36monedark.vim[39;49m[0m
-[1m[36mDataScience[39;49m[0m           [1m[36mLibrary[39;49m[0m               [1m[36mProjects[39;49m[0m              [31mwgcf.sh[39;49m[0m
-[1m[36mDesktop[39;49m[0m               [1m[36mMovies[39;49m[0m                [1m[36mPublic[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~]1;~]2;hanif@muhammads-MacBook-Air: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hppwd[?1l>[?2004l
-]2;pwd]1;pwd]2;pwd]1;pwd/Users/hanif
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~]1;~]2;hanif@muhammads-MacBook-Air: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hccd Projects[1m/[0m[0m/n rikimaru[1m/[0m[0m [?1l>[?2004l
-]2;cd Projects/rikimaru]1;cd]2;cd Projects/rikimaru]1;cd[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hw ppwd[?1l>[?2004l
-]2;pwd]1;pwd]2;pwd]1;pwd/Users/hanif/Projects/rikimaru
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hssudo : lns   -s "$(pwd)             s  eecho "$(pwd)"[?1l>[?2004l
-]2;echo "$(pwd)"]1;echo]2;echo "$(pwd)"]1;echo/Users/hanif/Projects/rikimaru
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hecho "$(pwd)"/"[8D/Users/hanif/Projects/rikimaru/[?1l>[?2004l
-]2;echo /Users/hanif/Projects/rikimaru/]1;echo]2;echo /Users/hanif/Projects/rikimaru/]1;echo/Users/hanif/Projects/rikimaru/
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004heecho $ "$(pwd")  )"/"t"r"c"" t"" y"c"a"t"c"h"."s"[?1l>[?2004l
-]2;echo "$(pwd)/trycatch.s"]1;echo]2;echo "$(pwd)/trycatch.s"]1;echo/Users/hanif/Projects/rikimaru/trycatch.s
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hecho "$(pwd)/trycatch.s"h"[?1l>[?2004l
-]2;echo "$(pwd)/trycatch.sh"]1;echo]2;echo "$(pwd)/trycatch.sh"]1;echo/Users/hanif/Projects/rikimaru/trycatch.sh
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h//us
-[J[1;31mUsers[0m/  [J[1;31musr[0m/  [J[A[0m[27m[24m[27C/us[Kr[1m/[0m[0m/local[1m/[0m[0m/share[1m/[0m[0m/b
-[J[A[45Ca a        bi       s  share[1m/[0m[0m/bi  
-[J[1;31mCSI[0m/                          [1;31mlocale[0m/                     
-[1;31mCoreDuetDaemonConfig.bundle[0m/  [1;31mman[0m/                        
-[1;31mcalendar[0m/                     [1;31mmecabra[0m/                    
-[1;31mcom.apple.languageassetd[0m/     [1;31mmisc[0m/                       
-[1;31mcracklib[0m/                     [1;31mphp[0m/                        
-[1;31mcups[0m/                         [1;31mpmenergy[0m/                   
-[1;31mdict[0m/                         [1;36mri[0m@                         
-[1;31mdoc[0m/                          [1;31msandbox[0m/                    
-[1;31memacs[0m/                        [1;31mscreen[0m/                     
-[1;31mexamples[0m/                     [1;31mskel[0m/                       
-[1;31mfile[0m/                         [1;31msnmp[0m/                       
-[1;31mfirmware[0m/                     [1;31mtabset[0m/                     
-[1;31mgermantok[0m/                    [1;31mterminfo[0m/                   
-[1;31mgroff[0m/                        [1;31mtexinfo[0m/                    
-[1;31mhiutil[0m/                       //us
-[J[1;31mUsers[0m/  [J[1;31musr[0m/  [J[A[0m[27m[24m[27C/us[Kr[1m/[0m[0m/local[1m/[0m[0m/share[1m/[0m[0m/b
-[J[A[45Ca a        bi       s  share[1m/[0m[0m/bi  
-[J[1;31mCSI[0m/                          [1;31mlocale[0m/                     
-[1;31mCoreDuetDaemonConfig.bundle[0m/  [1;31mman[0m/                        
-[1;31mcalendar[0m/                     [1;31mmecabra[0m/                    
-[1;31mcom.apple.languageassetd[0m/     [1;31mmisc[0m/                       
-[1;31mcracklib[0m/                     [1;31mphp[0m/                        
-[1;31mcups[0m/                         [1;31mpmenergy[0m/                   
-[1;31mdict[0m/                         [1;36mri[0m@                         
-[1;31mdoc[0m/                          [1;31msandbox[0m/                    
-[1;31memacs[0m/                        [1;31mscreen[0m/                     
-[1;31mexamples[0m/                     [1;31mskel[0m/                       
-[1;31mfile[0m/                         [1;31msnmp[0m/                       
-[1;31mfirmware[0m/                     [1;31mtabset[0m/                     
-[1;31mgermantok[0m/                    [1;31mterminfo[0m/                   
-[1;31mgroff[0m/                        [1;31mtexinfo[0m/                    
-[1;31mhiutil[0m/                       [1;31mthermald.bundle[0m/            
-[1;31mhttpd[0m/                        [1;31mtokenizer[0m/                  
-[1;31micu[0m/                          [1;31mucupdate[0m/                   
-[1;31minfo[0m/                         [1;31muucp[0m/                       
-[1;31mjava[0m/                         [1;31mvim[0m/                        
-[J[1;31mkdrl.bundle[0m/                  [J[1;36mzoneinfo[0m@                   [J
-[1;31mkpep[0m/                         [J[1;31mzoneinfo.default[0m/           [J
-[1;31mlangid[0m/                       [J[1;31mzsh[0m/                        [J
-[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m /usr/share/[KCSI[1m/[0m
-[7mCSI/                        [0m  [1;31mlocale[0m/                     [K
-[1;31mCoreDuetDaemonConfig.bundle[0m/  [1;31mman[0m/                        [K
-[1;31mcalendar[0m/                     [1;31mmecabra[0m/                    [K
-[1;31mcom.apple.languageassetd[0m/     [1;31mmisc[0m/                       [K
-[1;31mcracklib[0m/                     [1;31mphp[0m/                        [K
-[1;31mcups[0m/                   [42C[0m          local/bin/rk_upload_node[1m [0m[?2004l
-[J[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hcchmod   c  s //su /  cchmod + x x install.sh[1m [0m[0m [?1l>[?2004l
-]2;chmod +x install.sh]1;chmod]2;chmod +x install.sh]1;chmod[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../install.sh[1m [0m[0m [?1l>[?2004l
-]2;./install.sh]1;./install.sh]2;./install.sh]1;./install.shPassword:
-ln: /usr/local/bin/rk_upload_node: File exists
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./install.sh[?1l>[?2004l
-]2;./install.sh]1;./install.sh]2;./install.sh]1;./install.shln: /usr/local/bin/trycatch.sh: File exists
-ln: /usr/local/bin/rk_upload_node: File exists
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./install.sh[12D            [12Dccat log[1m [0m[0m [?1l>[?2004l
-]2;cat log]1;cat]2;cat log]1;catssh: connect to host 127.0.0.1 port 22: Connection refused
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;ls]2;ls -G]1;ls[31minstall.sh[39;49m[0m      [31mrk_upload_node[39;49m[0m  trycatch.sh
-log             ssh-session.log typescript
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccat ssh-session.log[1m [0m[0m [?1l>[?2004l
-]2;cat ssh-session.log]1;cat]2;cat ssh-session.log]1;catHhahahahHA
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikg[1m [0m[0m [?1l>[?2004l
-]2;cat log]1;cat]2;cat log]1;catssh: connect to host 127.0.0.1 port 22: Conncat ssh-session.log                c  ls  ggst[?1l>[?2004l
-]2;git status]1;gst]2;git status]1;gstOn branch master
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
-
-	[31mmodified:   rk_upload_node[m
-	[31mmodified:   typescript[m
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	[31minstall.sh[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hgga .[?1l>[?2004l
-]2;git add .]1;ga]2;git add .]1;ga[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggcam   g  lls[?1l>[?2004l
-]2;ls -G]1;ls]2;ls -G]1;ls[31minstall.sh[39;49m[0m      [31mrk_upload_node[39;49m[0m  trycatch.sh
-log             ssh-session.log typescript
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hrrmr  gggpush[?1l>[?2004l
-]2;git push origin "$(git_current_branch)"]1;ggpush]2;git push origin "$(git_current_branch)"]1;ggpush                      ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hgga .[?1l>[?2004l
-]2;git add .]1;ga]2;git add .]1;ga[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hg
