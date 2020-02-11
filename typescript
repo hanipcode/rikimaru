@@ -1175,11 +1175,6 @@ ln: /usr/bin/rk_upload_node: Operation not permitted
 [0mSplitForks        genbrk            redis-benchmark                   
 [J_git_worktree     [Jnetworksetup      [Jwork_in_progress  [J                [A[A[0m[27m[24m[27Crk[Kr  
 [J[A[27Csudo ln -s ~/Projects/rikimaru/rk_upload_node /usr/local/bin/rk_upload_node[K[A[13Crm[43P[16Crk_upload_node[K[1B[K[A[59C[32D[3P[29C   [?1l>[?2004l[1B[J]2;/usr/local/bin/rk_upload_node]1;/usr/local/bin/rk_upload_nodessh: connect to host 127.0.0.1 port 22: Connection refused
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hssource ode /usr/local/bin/rk_upload_node[A[44C[1Crk_upload_node /usr/local/bin/rk_upload_node[A[44Curk_upload_node /usr/local/bin/rk_upload_node[A[44C/rk_upload_node /usr/local/bin/rk_upload_node[A[44C[?1l>[?2004l[1B
-]2;sudo ln -s ~/Projects/rikimaru/rk_upload_node /usr/local/bin/rk_upload_node]1;ln[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hrrk
-[0mSplitForks        genbrk            redis-benchmark                   
-[J_git_worktree     [Jnetworksetup      [Jwork_in_progress  [J                [A[A[0m[27m[24m[27Crk[Kr  
-[J[A[27Csudo ln -s ~/Projects/rikimaru/rk_upload_node /usr/local/bin/rk_upload_node[K[A[13Crm[43P[16Crk_upload_node[K[1B[K[A[59C[32D[3P[29C   [?1l>[?2004l[1B[J]2;/usr/local/bin/rk_upload_node]1;/usr/local/bin/rk_upload_nodessh: connect to host 127.0.0.1 port 22: Connection refused
 [1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hssource ~/. .z
 [0m.zcompdump-muhammad’s\ MacBook\ Air-5.3  .zsh_history                           
 [1;31m.zoomus[0m/                                 .zshrc                                 
@@ -1211,4 +1206,129 @@ Untracked files:
 	[31mssh-session.log[m
 
 no changes added to commit (use "git add" and/or "git commit -a")
-[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h
+[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hgga .[?1l>[?2004l
+]2;git add .]1;ga]2;git add .]1;ga[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggcam "done"[?1l>[?2004l
+]2;git commit -a -m "done"]1;gcam]2;git commit -a -m "done"]1;gcam[master c468c05] done
+ 4 files changed, 1209 insertions(+), 33 deletions(-)
+ rename builder.sh => rk_upload_node (87%)
+ create mode 100644 ssh-session.log
+[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hgggpush[?1l>[?2004l
+]2;git push origin "$(git_current_branch)"]1;ggpush]2;git push origin "$(git_current_branch)"]1;ggpushEnumerating objects: 9, done.
+Counting objects:  11% (1/9)Counting objects:  22% (2/9)Counting objects:  33% (3/9)Counting objects:  44% (4/9)Counting objects:  55% (5/9)Counting objects:  66% (6/9)Counting objects:  77% (7/9)Counting objects:  88% (8/9)Counting objects: 100% (9/9)Counting objects: 100% (9/9), done.
+Delta compression using up to 4 threads
+Compressing objects:  20% (1/5)Compressing objects:  40% (2/5)Compressing objects:  60% (3/5)Compressing objects:  80% (4/5)Compressing objects: 100% (5/5)Compressing objects: 100% (5/5), done.
+Writing objects:  16% (1/6)Writing objects:  33% (2/6)Writing objects:  50% (3/6)Writing objects:  66% (4/6)Writing objects:  83% (5/6)Writing objects: 100% (6/6)Writing objects: 100% (6/6), 14.10 KiB | 2.82 MiB/s, done.
+Total 6 (delta 0), reused 0 (delta 0)
+To github.com:hanipcode/rikimaru.git
+   93bb35e..c468c05  master -> master
+[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls]2;ls -G]1;lsbuilder.sh      [31mrk_upload_node[39;49m[0m  trycatch.sh
+log             ssh-session.log typescript
+[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hsshs sudo ln[1m [0m[0m -s ~/Projects/rikimaru/rk_upload_node /usr/local/bin/rk_upload_node[K[A[87C[1B[51D[A[87C[P[16Crk[P[12C [A[57C[P[17Ck_[P[11C [A[57C[P[18C_u[P[10C [A[57C[P[19Cup[P[9C [A[57C[P[20Cpload_node [A[57C[P[21Cload_node [A[57C[P[22Coad_node [A[57C[P[23Cad_node [A[57C[P[24Cd_node [A[57C[P[25C_node [A[57C[P[26Cnode [A[57C[P[27Code [A[57C[P[28Cde [A[57C[P[29Ce [K[A[57C[P[30C[K[1B[K[A[57C[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D[P[30C [31D. /usr/local/bin/rk_upload_node[30D/ /usr/local/bin/rk_upload_node[30Dt /usr/local/bin/rk_upload_node[30Dr /usr/local/bin/rk_upload_node[30Dycatch.sh[1m [0m /usr/local/bin/rk_upload_node[30D[P[30C [30D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1Ce e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e se e $e$HeOeMeEe[?1l>[?2004l[1B]2;$HOMEe]1;$HOMEe]2;$HOMEe]1;$HOMEe[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004heecho $HOME[?1l>[?2004l
+]2;echo $HOME]1;echo]2;echo $HOME]1;echo/Users/hanif
+[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hecho $HOME[10D$HOMEe     [?1l>[?2004l
+]2;$HOME]1;$HOME]2;$HOME]1;$HOME[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~]1;~]2;hanif@muhammads-MacBook-Air: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls]2;ls -G]1;ls[1m[36mAndroidStudioProjects[39;49m[0m [1m[36mDevApp[39;49m[0m                [1m[36mMusic[39;49m[0m                 [1m[36mSites[39;49m[0m
+[1m[36mApplications[39;49m[0m          [1m[36mDocuments[39;49m[0m             [1m[36mPictures[39;49m[0m              [1m[36mgo[39;49m[0m
+[1m[36mCreative Cloud Files[39;49m[0m  [1m[36mDownloads[39;49m[0m             [1m[36mPostman[39;49m[0m               [1m[36monedark.vim[39;49m[0m
+[1m[36mDataScience[39;49m[0m           [1m[36mLibrary[39;49m[0m               [1m[36mProjects[39;49m[0m              [31mwgcf.sh[39;49m[0m
+[1m[36mDesktop[39;49m[0m               [1m[36mMovies[39;49m[0m                [1m[36mPublic[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~]1;~]2;hanif@muhammads-MacBook-Air: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hppwd[?1l>[?2004l
+]2;pwd]1;pwd]2;pwd]1;pwd/Users/hanif
+[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~]1;~]2;hanif@muhammads-MacBook-Air: ~]1;~[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hccd Projects[1m/[0m[0m/n rikimaru[1m/[0m[0m [?1l>[?2004l
+]2;cd Projects/rikimaru]1;cd]2;cd Projects/rikimaru]1;cd[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hw ppwd[?1l>[?2004l
+]2;pwd]1;pwd]2;pwd]1;pwd/Users/hanif/Projects/rikimaru
+[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hssudo : lns   -s "$(pwd)             s  eecho "$(pwd)"[?1l>[?2004l
+]2;echo "$(pwd)"]1;echo]2;echo "$(pwd)"]1;echo/Users/hanif/Projects/rikimaru
+[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hecho "$(pwd)"/"[8D/Users/hanif/Projects/rikimaru/[?1l>[?2004l
+]2;echo /Users/hanif/Projects/rikimaru/]1;echo]2;echo /Users/hanif/Projects/rikimaru/]1;echo/Users/hanif/Projects/rikimaru/
+[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004heecho $ "$(pwd")  )"/"t"r"c"" t"" y"c"a"t"c"h"."s"[?1l>[?2004l
+]2;echo "$(pwd)/trycatch.s"]1;echo]2;echo "$(pwd)/trycatch.s"]1;echo/Users/hanif/Projects/rikimaru/trycatch.s
+[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hecho "$(pwd)/trycatch.s"h"[?1l>[?2004l
+]2;echo "$(pwd)/trycatch.sh"]1;echo]2;echo "$(pwd)/trycatch.sh"]1;echo/Users/hanif/Projects/rikimaru/trycatch.sh
+[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h//us
+[J[1;31mUsers[0m/  [J[1;31musr[0m/  [J[A[0m[27m[24m[27C/us[Kr[1m/[0m[0m/local[1m/[0m[0m/share[1m/[0m[0m/b
+[J[A[45Ca a        bi       s  share[1m/[0m[0m/bi  
+[J[1;31mCSI[0m/                          [1;31mlocale[0m/                     
+[1;31mCoreDuetDaemonConfig.bundle[0m/  [1;31mman[0m/                        
+[1;31mcalendar[0m/                     [1;31mmecabra[0m/                    
+[1;31mcom.apple.languageassetd[0m/     [1;31mmisc[0m/                       
+[1;31mcracklib[0m/                     [1;31mphp[0m/                        
+[1;31mcups[0m/                         [1;31mpmenergy[0m/                   
+[1;31mdict[0m/                         [1;36mri[0m@                         
+[1;31mdoc[0m/                          [1;31msandbox[0m/                    
+[1;31memacs[0m/                        [1;31mscreen[0m/                     
+[1;31mexamples[0m/                     [1;31mskel[0m/                       
+[1;31mfile[0m/                         [1;31msnmp[0m/                       
+[1;31mfirmware[0m/                     [1;31mtabset[0m/                     
+[1;31mgermantok[0m/                    [1;31mterminfo[0m/                   
+[1;31mgroff[0m/                        [1;31mtexinfo[0m/                    
+[1;31mhiutil[0m/                       //us
+[J[1;31mUsers[0m/  [J[1;31musr[0m/  [J[A[0m[27m[24m[27C/us[Kr[1m/[0m[0m/local[1m/[0m[0m/share[1m/[0m[0m/b
+[J[A[45Ca a        bi       s  share[1m/[0m[0m/bi  
+[J[1;31mCSI[0m/                          [1;31mlocale[0m/                     
+[1;31mCoreDuetDaemonConfig.bundle[0m/  [1;31mman[0m/                        
+[1;31mcalendar[0m/                     [1;31mmecabra[0m/                    
+[1;31mcom.apple.languageassetd[0m/     [1;31mmisc[0m/                       
+[1;31mcracklib[0m/                     [1;31mphp[0m/                        
+[1;31mcups[0m/                         [1;31mpmenergy[0m/                   
+[1;31mdict[0m/                         [1;36mri[0m@                         
+[1;31mdoc[0m/                          [1;31msandbox[0m/                    
+[1;31memacs[0m/                        [1;31mscreen[0m/                     
+[1;31mexamples[0m/                     [1;31mskel[0m/                       
+[1;31mfile[0m/                         [1;31msnmp[0m/                       
+[1;31mfirmware[0m/                     [1;31mtabset[0m/                     
+[1;31mgermantok[0m/                    [1;31mterminfo[0m/                   
+[1;31mgroff[0m/                        [1;31mtexinfo[0m/                    
+[1;31mhiutil[0m/                       [1;31mthermald.bundle[0m/            
+[1;31mhttpd[0m/                        [1;31mtokenizer[0m/                  
+[1;31micu[0m/                          [1;31mucupdate[0m/                   
+[1;31minfo[0m/                         [1;31muucp[0m/                       
+[1;31mjava[0m/                         [1;31mvim[0m/                        
+[J[1;31mkdrl.bundle[0m/                  [J[1;36mzoneinfo[0m@                   [J
+[1;31mkpep[0m/                         [J[1;31mzoneinfo.default[0m/           [J
+[1;31mlangid[0m/                       [J[1;31mzsh[0m/                        [J
+[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m /usr/share/[KCSI[1m/[0m
+[7mCSI/                        [0m  [1;31mlocale[0m/                     [K
+[1;31mCoreDuetDaemonConfig.bundle[0m/  [1;31mman[0m/                        [K
+[1;31mcalendar[0m/                     [1;31mmecabra[0m/                    [K
+[1;31mcom.apple.languageassetd[0m/     [1;31mmisc[0m/                       [K
+[1;31mcracklib[0m/                     [1;31mphp[0m/                        [K
+[1;31mcups[0m/                   [42C[0m          local/bin/rk_upload_node[1m [0m[?2004l
+[J[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hcchmod   c  s //su /  cchmod + x x install.sh[1m [0m[0m [?1l>[?2004l
+]2;chmod +x install.sh]1;chmod]2;chmod +x install.sh]1;chmod[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../install.sh[1m [0m[0m [?1l>[?2004l
+]2;./install.sh]1;./install.sh]2;./install.sh]1;./install.shPassword:
+ln: /usr/local/bin/rk_upload_node: File exists
+[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;31m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./install.sh[?1l>[?2004l
+]2;./install.sh]1;./install.sh]2;./install.sh]1;./install.shln: /usr/local/bin/trycatch.sh: File exists
+ln: /usr/local/bin/rk_upload_node: File exists
+[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h./install.sh[12D            [12Dccat log[1m [0m[0m [?1l>[?2004l
+]2;cat log]1;cat]2;cat log]1;catssh: connect to host 127.0.0.1 port 22: Connection refused
+[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls]2;ls -G]1;ls[31minstall.sh[39;49m[0m      [31mrk_upload_node[39;49m[0m  trycatch.sh
+log             ssh-session.log typescript
+[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccat ssh-session.log[1m [0m[0m [?1l>[?2004l
+]2;cat ssh-session.log]1;cat]2;cat ssh-session.log]1;catHhahahahHA
+[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikg[1m [0m[0m [?1l>[?2004l
+]2;cat log]1;cat]2;cat log]1;catssh: connect to host 127.0.0.1 port 22: Conncat ssh-session.log                c  ls  ggst[?1l>[?2004l
+]2;git status]1;gst]2;git status]1;gstOn branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   rk_upload_node[m
+	[31mmodified:   typescript[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31minstall.sh[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hgga .[?1l>[?2004l
+]2;git add .]1;ga]2;git add .]1;ga[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggcam   g  lls[?1l>[?2004l
+]2;ls -G]1;ls]2;ls -G]1;ls[31minstall.sh[39;49m[0m      [31mrk_upload_node[39;49m[0m  trycatch.sh
+log             ssh-session.log typescript
+[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hrrmr  gggpush[?1l>[?2004l
+]2;git push origin "$(git_current_branch)"]1;ggpush]2;git push origin "$(git_current_branch)"]1;ggpush                      ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hgga .[?1l>[?2004l
+]2;git add .]1;ga]2;git add .]1;ga[1m[7m%[27m[1m[0m                                                                                        ]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru]2;hanif@muhammads-MacBook-Air: ~/Projects/rikimaru]1;..ects/rikimaru[0m[27m[24m[J[01;32m➜  [36mrikimaru[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hg
