@@ -104,10 +104,14 @@ catch || (
     SUCCESS_PREPARE=false;
 )
 
-if [[ $SUCCESS_PREPARE == "true" ]]; then
-ssh $HOST_NAME  2>&1>> $LOG_DESTINATION << EOF
-    $(typeset -f);
-    cd /var/www/collection-backend;
-    build_node_project server;
+function execute_ssh() {
+    if [[ $SUCCESS_PREPARE == "true" ]]; then
+        ssh $HOST_NAME  2>&1 $LOG_DESTINATION << EOF
+            $(typeset -f);
+            cd /var/www/collection-backend;
+            build_node_project server;
 EOF
 fi
+}
+
+execute_ssh
