@@ -114,4 +114,4 @@ EOF
 fi
 }
 
-execute_ssh
+execute_ssh 2>&1 | tee -a $LOG_DESTINATION
