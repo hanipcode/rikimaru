@@ -1,0 +1,28 @@
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+mesg: ttyname failed: Inappropriate ioctl for device
+npm WARN recordcall@1.0.0 No description
+npm WARN recordcall@1.0.0 No repository field.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules/fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+
+Error: Cannot find module '@shelf/jest-mongodb/jest-preset'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:582:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:508:25)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/var/www/collection-backend/jest.config.js:2:21)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! recordcall@1.0.0 test: `jest`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the recordcall@1.0.0 test script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2020-02-11T07_19_44_021Z-debug.log
