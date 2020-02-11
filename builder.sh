@@ -86,6 +86,13 @@ function build_node_project() {
     fi
 }
 
+function clean_log() {
+    rm "$LOG_DESTINATION";
+    touch "$LOG_DESTINATION";
+}
+
+clean_log;
+
 
 
 # Script start from here
