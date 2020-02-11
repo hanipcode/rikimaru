@@ -69,7 +69,7 @@ function init_build_node_project_server() {
 function prepare_local() {
     git status;
     git add '.';
-    git commit -m "$COMMIT_MESSAGE";
+    git commit -am "$COMMIT_MESSAGE";
     # git push $PUSH_TO;
 }
 
