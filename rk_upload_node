@@ -25,6 +25,7 @@ EOF
 
 function usage() { echo "$USAGE_MESSAGE" 1>&2; exit 1; }
 
+
 while getopts ":e:h:l:m:t:" opt; do
     case ${opt} in
         e)
@@ -95,23 +96,29 @@ clean_log;
 
 # Script start from here
 SUCCESS_PREPARE=true;
-try
-(
-    prepare_local 2>&1 | tee -a $LOG_DESTINATION;
-)
-catch || (
-    echo "GIT IS FAILED";
-    SUCCESS_PREPARE=false;
-)
+# try
+# (
+#     prepare_local 2>&1 | tee -a $LOG_DESTINATION;
+# )
+# catch || (
+#     echo "GIT IS FAILED";
+#     SUCCESS_PREPARE=false;
+# )
+
+
+SSH_COMMAND=$(cat <<-EOF
+            $(typeset -f);
+            cd /var/www/collection-backend;
+            git pull origin master;
+            build_node_project server;
+EOF
+);
 
 function execute_ssh() {
     if [[ $SUCCESS_PREPARE == "true" ]]; then
-        ssh $HOST_NAME  << EOF
-            $(typeset -f);
-            cd /var/www/collection-backend;
-            build_node_project server;
-EOF
-fi
+        ssh $HOST_NAME "$SSH_COMMAND" |& tee -a $LOG_DESTINATION;
+    fi
 }
 
-execute_ssh > $LOG_DESTINATION
+
+execute_ssh 
