@@ -99,7 +99,7 @@ clean_log;
 SUCCESS_PREPARE=true;
 try
 (
-    prepare_local >> $LOG_DESTINATION;
+    prepare_local 2>&1 $LOG_DESTINATION;
 )
 catch || (
     echo "GIT IS FAILED";
@@ -107,7 +107,7 @@ catch || (
 )
 
 # if [[ $SUCCESS_PREPARE == "true" ]]; then
-# ssh $HOST_NAME  2> $LOG_DESTINATION << EOF
+# ssh $HOST_NAME  2>&1 $LOG_DESTINATION << EOF
 #     $(typeset -f);
 #     cd /var/www/collection-backend;
 #     build_node_project server;
