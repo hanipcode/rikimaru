@@ -114,4 +114,4 @@ EOF
 fi
 }
 
-execute_ssh > $LOG_DESTINATION
+execute_ssh &> $LOG_DESTINATION
