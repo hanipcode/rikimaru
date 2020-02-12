@@ -1,13 +1,14 @@
 #!/usr/bin/env bash
-source "/usr/local/bin/trycatch.sh"
+source "/etc/rikimaru/scripts/trycatch.sh"
+source "/etc/rikimaru/config/mail_var.sh"
 
-export HOST_NAME="127.0.0.1";
-export CUR_ENV="local";
-export PM2_NAME=""
-LOG_DESTINATION=log
+
+export RK_HOST_NAME="127.0.0.1";
+export RK_CUR_ENV="local";
+export RK_PM2_NAME=""
+LOG_DESTINATION=rikimaru.log
 COMMIT_MESSAGE="Default commit message from tool"
 PUSH_TO="origin master"
-SUCCESS_PREPARE=false
 
 
 USAGE_MESSAGE=$(cat <<-EOF
@@ -23,16 +24,17 @@ Options:
 EOF
 );
 
+
 function usage() { echo "$USAGE_MESSAGE" 1>&2; exit 1; }
 
 
 while getopts ":e:h:l:m:t:" opt; do
     case ${opt} in
         e)
-            CUR_ENV=$OPTARG
+            RK_CUR_ENV=$OPTARG
         ;;
         h)
-            HOST_NAME=$OPTARG
+            RK_HOST_NAME=$OPTARG
         ;;
         l)
             LOG_DESTINATION=$OPTARG
@@ -44,7 +46,7 @@ while getopts ":e:h:l:m:t:" opt; do
             PUSH_TO=$OPTARG
         ;;
         p)
-            PM2_NAME=$OPTARG
+            RK_PM2_NAME=$OPTARG
         ;;
         *)
             usage
@@ -54,35 +56,38 @@ done
 
 shift $((OPTIND-1))
 
-if [ -z "${HOST_NAME}" ] || [ -z "${CUR_ENV}" ]; then
+if [ -z "${RK_HOST_NAME}" ] || [ -z "${RK_CUR_ENV}" ]; then
     usage
 fi
 
 function init_build_node_project_local() {
-    yarn install;
-    yarn  test;
-    yarn  build;
+    yarn install || return 1;
+    yarn  test || return 2;
+    yarn  build || return 3;
 }
 
 function init_build_node_project_server() {
-    npm install;
-    npm run test;
-    npm run build;
+    npm install || return 1;
+    npm run test || return 2;
+    npm run build || return 3;
 }
 
 function prepare_local() {
-    git status;
-    git add '.';
-    git commit -am "$COMMIT_MESSAGE";
-    git push $PUSH_TO;
+    npm run test || return 1;
+    npm run build || return 2; 
+    git status || return 3;
+    git add '.' || return 4; 
+    git commit -am "$COMMIT_MESSAGE" || return 5;
+    git push $PUSH_TO || return 6;
+    return 0;
 }
 
 function build_node_project() {
     local CUR_ENV_NODE=$1;
     if [[ $CUR_ENV_NODE == "local" ]]; then
-        init_build_node_project_local
+        init_build_node_project_local || return 1
         elif [[ $CUR_ENV_NODE == "server" ]]; then
-        init_build_node_project_server
+        init_build_node_project_server || return 1
     else
         echo "INVALID ENVIRONMENT";
         usage;
@@ -98,17 +103,15 @@ function clean_log() {
 clean_log;
 
 # Script start from here
-SUCCESS_PREPARE=true;
-try
-(
-    prepare_local 2>&1 | tee -a $LOG_DESTINATION;
-)
-catch || (
-    SUCCESS_PREPARE=false;
-)
+
+prepare_local &>> $LOG_DESTINATION
+PREPARE_LOCAL_EXIT=$?
+echo "Preparing Local finish with status: $PREPARE_LOCAL_EXIT"
+
 
 
 SSH_COMMAND=$(cat <<-EOF
+            $(set -eE)
             $(typeset -f);
             cd /var/www/collection-backend;
             git pull origin master;
@@ -119,189 +122,41 @@ EOF
 );
 
 function execute_ssh() {
-    if [[ $SUCCESS_PREPARE == "true" ]]; then
-        ssh $HOST_NAME "$SSH_COMMAND" |& tee -a $LOG_DESTINATION;
+    if [[ $PREPARE_LOCAL_EXIT -eq 0 ]]; then
+        ssh $RK_HOST_NAME "$SSH_COMMAND" || return 1;
+        return 0;
     fi
+    return 99
 }
 
 
-execute_ssh 
+execute_ssh &>> $LOG_DESTINATION
+EXEECUTE_SSH_EXIT=$?
 
-MAIL_MSG="From:hanif@mail.com
-To:pocisite@gmail.com
-Subject: Build baru telah terjadi kun
-Content-Type: text/html
-<!doctype html>
-<html>
-  <head>
-    <meta name='viewport' content='width=device-width'>
-    <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
-    <title>Simple Transactional Email</title>
-    <style>
-    /* -------------------------------------
-        INLINED WITH htmlemail.io/inline
-    ------------------------------------- */
-    /* -------------------------------------
-        RESPONSIVE AND MOBILE FRIENDLY STYLES
-    ------------------------------------- */
-    @media only screen and (max-width: 620px) {
-      table[class=body] h1 {
-        font-size: 28px !important;
-        margin-bottom: 10px !important;
-      }
-      table[class=body] p,
-            table[class=body] ul,
-            table[class=body] ol,
-            table[class=body] td,
-            table[class=body] span,
-            table[class=body] a {
-        font-size: 16px !important;
-      }
-      table[class=body] .wrapper,
-            table[class=body] .article {
-        padding: 10px !important;
-      }
-      table[class=body] .content {
-        padding: 0 !important;
-      }
-      table[class=body] .container {
-        padding: 0 !important;
-        width: 100% !important;
-      }
-      table[class=body] .main {
-        border-left-width: 0 !important;
-        border-radius: 0 !important;
-        border-right-width: 0 !important;
-      }
-      table[class=body] .btn table {
-        width: 100% !important;
-      }
-      table[class=body] .btn a {
-        width: 100% !important;
-      }
-      table[class=body] .img-responsive {
-        height: auto !important;
-        max-width: 100% !important;
-        width: auto !important;
-      }
-    }
-
-    /* -------------------------------------
-        PRESERVE THESE STYLES IN THE HEAD
-    ------------------------------------- */
-    @media all {
-      .ExternalClass {
-        width: 100%;
-      }
-      .ExternalClass,
-            .ExternalClass p,
-            .ExternalClass span,
-            .ExternalClass font,
-            .ExternalClass td,
-            .ExternalClass div {
-        line-height: 100%;
-      }
-      .apple-link a {
-        color: inherit !important;
-        font-family: inherit !important;
-        font-size: inherit !important;
-        font-weight: inherit !important;
-        line-height: inherit !important;
-        text-decoration: none !important;
-      }
-      #MessageViewBody a {
-        color: inherit;
-        text-decoration: none;
-        font-size: inherit;
-        font-family: inherit;
-        font-weight: inherit;
-        line-height: inherit;
-      }
-      .btn-primary table td:hover {
-        background-color: #34495e !important;
-      }
-      .btn-primary a:hover {
-        background-color: #34495e !important;
-        border-color: #34495e !important;
-      }
-    }
-    pre {
-        line-height:1.2em;
-        background:linear-gradient(180deg,#ccc 0,#ccc 1.2em,#eee 0);
-        background-size:2.4em 2.4em;
-        background-origin:content-box;
-        
-        /* some extra styles*/
-        padding:0 20px;
-        text-align:justify;
-        font-family:calibri,arial,sans-serif;
-    }
-    </style>
-  </head>
-  <body class='' style='background-color: #f6f6f6; font-family: sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; line-height: 1.4; margin: 0; padding: 0; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;'>
-    <table border='0' cellpadding='0' cellspacing='0' class='body' style='border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; background-color: #f6f6f6;'>
-      <tr>
-        <td style='font-family: sans-serif; font-size: 14px; vertical-align: top;'>&nbsp;</td>
-        <td class='container' style='font-family: sans-serif; font-size: 14px; vertical-align: top; display: block; Margin: 0 auto; max-width: 580px; padding: 10px; width: 580px;'>
-          <div class='content' style='box-sizing: border-box; display: block; Margin: 0 auto; max-width: 580px; padding: 10px;'>
-
-            <!-- START CENTERED WHITE CONTAINER -->
-            <span class='preheader' style='color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0;'>This is preheader text. Some clients will show this text as a preview.</span>
-            <table class='main' style='border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; background: #ffffff; border-radius: 3px;'>
-
-              <!-- START MAIN CONTENT AREA -->
-              <tr>
-                <td class='wrapper' style='font-family: sans-serif; font-size: 14px; vertical-align: top; box-sizing: border-box; padding: 20px;'>
-                  <table border='0' cellpadding='0' cellspacing='0' style='border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;'>
-                    <tr>
-                      <td style='font-family: sans-serif; font-size: 14px; vertical-align: top;'>
-                        <h2>Build System</h2>
-                        <p style='font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;'>Hi there, master</p>
-                        <p style='font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;'>Build baru telah terjadi pada tanggal $(date)</p>
-                        <p style='font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;'>Berikut kami sertakan log nya</p>
-                        <pre>
-
-"
-MAIL_FOOTER="
-                        </pre>
-
-                        <p style='font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;'>Terimakasih telah menggunakan build system</p>
-                        <p style='font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;'>Sampai jumpa di build berikutnya</p>
-                      </td>
-                    </tr>
-                  </table>
-                </td>
-              </tr>
-
-            <!-- END MAIN CONTENT AREA -->
-            </table>
-
-            <!-- START FOOTER -->
-            <div class='footer' style='clear: both; Margin-top: 10px; text-align: center; width: 100%;'>
-              <table border='0' cellpadding='0' cellspacing='0' style='border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;'>
-                <tr>
-                  <td class='content-block' style='font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; font-size: 12px; color: #999999; text-align: center;'>
-                    <span class='apple-link' style='color: #999999; font-size: 12px; text-align: center;'>Company Inc, 3 Abbey Road, San Francisco CA 94102</span>
-                    <br> Don't like these emails? <a href='http://i.imgur.com/CScmqnj.gif' style='text-decoration: underline; color: #999999; font-size: 12px; text-align: center;'>Unsubscribe</a>.
-                  </td>
-                </tr>
-                <tr>
-                  <td class='content-block powered-by' style='font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; font-size: 12px; color: #999999; text-align: center;'>
-                    Powered by <a href='http://htmlemail.io' style='color: #999999; font-size: 12px; text-align: center; text-decoration: none;'>HTMLemail</a>.
-                  </td>
-                </tr>
-              </table>
-            </div>
-            <!-- END FOOTER -->
-
-          <!-- END CENTERED WHITE CONTAINER -->
-          </div>
-        </td>
-        <td style='font-family: sans-serif; font-size: 14px; vertical-align: top;'>&nbsp;</td>
-      </tr>
-    </table>
-  </body>
-</html>"
+if [[ -n $EXEECUTE_SSH_EXIT ]]; then
+    echo "Executing SSH command sequence finish with status $EXEECUTE_SSH_EXIT"
+fi
 
 
-(echo -e "$MAIL_MSG";  echo -e | cat $LOG_DESTINATION; echo -e $MAIL_FOOTER;) | sendmail -t
+# Status FLAGGINg
+BUILD_STATUS="Success";
+if [[ $PREPARE_LOCAL_EXIT -ne 0 ]]; then
+    BUILD_STATUS="Failed in Prepare";
+fi
+if [[ $EXEECUTE_SSH_EXIT -ne 0 && $EXEECUTE_SSH_EXIT -ne 99 ]]; then
+    BUILD_STATUS="Failed in SSH";
+fi
+
+
+echo -e "Build Status: $BUILD_STATUS for more detail please check the log file"
+
+
+(
+    echo -e "$MAIL_HEAD";
+    echo -e "$MAIL_MSG"; 
+    echo -e "Build Status: $BUILD_STATUS"
+    echo -e "Terjadi Pada tanggal: $(date)"
+    echo -e "<br/>"
+    echo -e "$(cat $LOG_DESTINATION)";
+    echo -e $MAIL_FOOTER;
+) | sendmail -t
