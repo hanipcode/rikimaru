@@ -5,7 +5,7 @@ source "/etc/rikimaru/config/mail_var.sh"
 
 export RK_HOST_NAME="127.0.0.1";
 export RK_CUR_ENV="local";
-export RK_PM2_NAME=""
+PM2_NAME=""
 LOG_DESTINATION=rikimaru.log
 COMMIT_MESSAGE="Default commit message from tool"
 PUSH_TO="origin master"
@@ -28,7 +28,7 @@ EOF
 function usage() { echo "$USAGE_MESSAGE" 1>&2; exit 1; }
 
 
-while getopts ":e:h:l:m:t:" opt; do
+while getopts ":e:h:l:m:t:p:" opt; do
     case ${opt} in
         e)
             RK_CUR_ENV=$OPTARG
@@ -46,7 +46,7 @@ while getopts ":e:h:l:m:t:" opt; do
             PUSH_TO=$OPTARG
         ;;
         p)
-            RK_PM2_NAME=$OPTARG
+            PM2_NAME=$OPTARG
         ;;
         *)
             usage
@@ -67,27 +67,33 @@ function init_build_node_project_local() {
 }
 
 function init_build_node_project_server() {
+    local CUR_PM2_NAME=$1;
+    echo "installing";
     npm install || return 1;
-    npm run test || return 2;
+    echo "delete dist folder";
+    rm -rf ./dist || return 2;
+    echo "building"
     npm run build || return 3;
+    echo "PM2  nya si $1 restarting";
+    pm2 restart $1;
 }
 
 function prepare_local() {
     npm run test || return 1;
-    npm run build || return 2; 
-    git status || return 3;
-    git add '.' || return 4; 
-    git commit -am "$COMMIT_MESSAGE" || return 5;
+    git status;
+    git add '.' ; 
+    git commit -am "$COMMIT_MESSAGE" ;
     git push $PUSH_TO || return 6;
     return 0;
 }
 
 function build_node_project() {
     local CUR_ENV_NODE=$1;
+    local CUR_PM2_NAME=$2;
     if [[ $CUR_ENV_NODE == "local" ]]; then
         init_build_node_project_local || return 1
         elif [[ $CUR_ENV_NODE == "server" ]]; then
-        init_build_node_project_server || return 1
+        init_build_node_project_server $2 || return 1
     else
         echo "INVALID ENVIRONMENT";
         usage;
@@ -113,11 +119,10 @@ echo "Preparing Local finish with status: $PREPARE_LOCAL_EXIT"
 SSH_COMMAND=$(cat <<-EOF
             $(set -eE)
             $(typeset -f);
-            cd /var/www/collection-backend;
+            cd /var/www/"$PM2_NAME";
             git pull origin master;
-            build_node_project server;
-            echo $PM2_NAME;
-            pm2 $PM2_NAME restart;
+            build_node_project server $PM2_NAME;
+            pm2 restart $PM2_NAME
 EOF
 );
 
